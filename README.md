@@ -5,7 +5,7 @@
 
 
 
-###Aim Of This Project###
+Aim Of This Projecr
 
 The aim of this project is to analyze 3 databases of companies under the fundamental of Business Intelligence and Business Analytics.
 
