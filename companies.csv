@@ -1,0 +1,1053 @@
+,Company,Sales ($billion),Profits ($billion),Assets ($billion),Market Value ($billion),Country,Continent,Latitude,Longitude
+0,China Construction Bank,113.1,30.6,2241.0,202.0,China,Asia,35.86166,104.195397
+1,General Electric,147.4,13.6,685.3,243.7,USA,North America,37.09024,-95.712891
+2,HSBC Holdings,104.9,14.3,2684.1,201.3,UK,Europe,55.378051,-3.435973
+3,Agricultural Bank of China,103.0,23.0,2124.2,150.8,China,Asia,35.86166,104.195397
+4,Berkshire Hathaway,162.5,14.8,427.5,252.8,USA,North America,37.09024,-95.712891
+5,Wells Fargo,91.2,18.9,1423.0,201.3,USA,North America,37.09024,-95.712891
+6,Volkswagen Group,254.0,28.6,408.2,94.4,Germany,Europe,51.165691,10.451526
+7,Apple,164.7,41.7,196.1,416.6,USA,North America,37.09024,-95.712891
+8,BP,370.9,11.6,301.0,130.4,UK,Europe,55.378051,-3.435973
+9,Petrobras,144.1,11.0,331.6,120.7,Brazil,South America,-14.235004,-51.92528
+10,BNP Paribas,126.2,8.6,2504.2,71.3,France,Europe,46.227638,2.213749
+11,AT&T,127.4,7.3,272.3,200.1,USA,North America,37.09024,-95.712891
+12,Sinopec-China Petroleum,411.7,10.1,200.0,106.9,China,Asia,35.86166,104.195397
+13,Bank of America,100.1,4.2,2210.0,135.5,USA,North America,37.09024,-95.712891
+14,ENI,163.7,10.0,185.2,86.3,Italy,Europe,41.87194,12.56738
+15,Vodafone,74.4,11.1,219.9,135.7,UK,Europe,55.378051,-3.435973
+16,Proctor & Gamble,83.3,12.9,139.9,208.5,USA,North America,37.09024,-95.712891
+17,Pfizer,59.0,14.6,185.8,201.4,USA,North America,37.09024,-95.712891
+18,AXA Group,147.5,5.3,1005.4,45.3,France,Europe,46.227638,2.213749
+19,Microsoft,72.9,15.5,128.7,234.8,USA,North America,37.09024,-95.712891
+20,Banco Santander,108.8,2.9,1647.8,82.1,Spain,Europe,40.463667,-3.74922
+21,Banco Bradesco,78.3,5.6,417.5,72.0,Brazil,South America,-14.235004,-51.92528
+22,Johnson & Johnson,67.2,10.9,121.3,221.4,USA,North America,37.09024,-95.712891
+23,Goldman Sachs Group,41.7,7.5,938.6,74.5,USA,North America,37.09024,-95.712891
+24,Siemens,100.6,5.7,134.4,91.9,Germany,Europe,51.165691,10.451526
+25,Sumitomo Mitsui Financial,47.3,6.3,1733.2,57.6,Japan,Asia,36.204824,138.252924
+26,Bank of Communications,43.5,9.4,846.4,56.7,China,Asia,35.86166,104.195397
+27,Comcast,62.6,6.2,165.0,106.3,USA,North America,37.09024,-95.712891
+28,Rosneft,68.8,11.2,126.3,73.2,Russia,Europe,61.52401,105.318756
+29,ING Group,130.0,5.1,1533.7,31.9,The Netherlands,Europe,52.132633,5.291266
+30,TelefÃ³nica,82.3,5.2,161.5,67.1,Spain,Europe,40.463667,-3.74922
+31,Lukoil,116.3,11.0,99.0,55.4,Russia,Europe,61.52401,105.318756
+32,ANZ,37.5,5.9,666.9,81.2,Australia,Oceania,-25.274398,133.775136
+33,Banco do Brasil,69.0,6.0,552.2,37.9,Brazil,South America,-14.235004,-51.92528
+34,BASF,103.9,6.4,83.5,90.1,Germany,Europe,51.165691,10.451526
+35,TD Bank Group,30.6,6.7,819.4,76.9,Canada,North America,56.130366,-106.346771
+36,ConocoPhillips,58.4,8.4,117.1,72.1,USA,North America,37.09024,-95.712891
+37,Anheuser-Busch InBev,39.8,7.2,122.6,153.5,Belgium,Europe,50.503887,4.469936
+38,Mizuho Financial,32.8,5.9,2005.0,53.7,Japan,Asia,36.204824,138.252924
+39,Cisco Systems,47.3,9.3,95.4,116.9,USA,North America,37.09024,-95.712891
+40,Munich Re,88.0,4.2,340.6,34.9,Germany,Europe,51.165691,10.451526
+41,Ping An Insurance Group,51.1,3.2,456.2,57.0,China,Asia,35.86166,104.195397
+42,Nissan Motor,113.7,4.1,133.4,43.4,Japan,Asia,36.204824,138.252924
+43,Vale,45.7,4.8,130.4,92.7,Brazil,South America,-14.235004,-51.92528
+44,Hyundai Motor,75.0,7.6,114.3,41.5,South Korea,Asia,35.907757,127.766922
+45,BBVA-Banco Bilbao Vizcaya,52.1,2.2,840.8,54.7,Spain,Europe,40.463667,-3.74922
+46,Saudi Basic Industries,50.4,6.6,90.2,74.8,Saudi Arabia,Asia,23.885942,45.079162
+47,Boeing,81.7,3.9,88.9,65.4,USA,North America,37.09024,-95.712891
+48,Standard Chartered,26.9,4.9,636.5,64.4,UK,Europe,55.378051,-3.435973
+49,AmÃ©rica MÃ³vil,60.2,7.1,74.6,70.7,Mexico,North America,23.634501,-102.552784
+50,Oracle,37.1,10.6,79.4,172.0,USA,North America,37.09024,-95.712891
+51,CVS Caremark,123.1,3.9,65.9,66.0,USA,North America,37.09024,-95.712891
+52,China Life Insurance,63.2,1.8,304.6,79.9,China,Asia,35.86166,104.195397
+53,Walt Disney,42.8,5.6,80.6,104.0,USA,North America,37.09024,-95.712891
+54,Mitsubishi Corp,67.2,5.5,152.6,32.1,Japan,Asia,36.204824,138.252924
+55,Cnooc,39.2,10.1,73.2,84.3,Hong Kong,Asia,22.396428,114.109497
+56,Hon Hai Precision,132.1,10.7,65.8,32.1,Taiwan,Asia,23.69781,120.960515
+57,China Shenhua Energy,39.7,7.7,70.2,70.8,China,Asia,35.86166,104.195397
+58,Hitachi,116.8,4.2,113.2,28.5,Japan,Asia,36.204824,138.252924
+59,Nordea Bank,23.2,4.2,892.6,47.1,Sweden,Europe,60.128161,18.643501
+60,Bayer,52.5,3.2,65.6,84.9,Germany,Europe,51.165691,10.451526
+61,Reliance Industries,70.3,3.9,64.2,50.4,India,Asia,20.593684,78.96288
+62,Abbott Laboratories,39.9,6.0,67.2,53.6,USA,North America,37.09024,-95.712891
+63,Shanghai Pudong Development,25.4,5.4,504.5,31.6,China,Asia,35.86166,104.195397
+64,China Citic Bank,24.4,4.9,474.7,32.5,China,Asia,35.86166,104.195397
+65,Home Depot,74.8,4.5,41.1,103.3,USA,North America,37.09024,-95.712891
+66,Bank of Montreal,20.9,4.1,542.9,41.0,Canada,North America,56.130366,-106.346771
+67,Verizon Communications,115.8,0.9,225.2,137.3,USA,North America,37.09024,-95.712891
+68,State Bank of India,35.1,3.0,359.1,28.1,India,Asia,20.593684,78.96288
+69,News Corp,34.3,4.0,62.7,70.6,USA,North America,37.09024,-95.712891
+70,Capital One Financial,23.8,3.5,312.9,32.1,USA,North America,37.09024,-95.712891
+71,Suncor Energy,38.8,2.8,76.8,47.3,Canada,North America,56.130366,-106.346771
+72,PTT PCL,89.9,3.4,53.3,32.9,Thailand,Asia,15.870032,100.992541
+73,SociÃ©tÃ© GÃ©nÃ©rale,107.8,1.0,1648.9,29.5,France,Europe,46.227638,2.213749
+74,Softbank,38.7,3.8,58.3,47.2,Japan,Asia,36.204824,138.252924
+75,AIA Group,20.4,3.0,134.4,53.5,Hong Kong,Asia,22.396428,114.109497
+76,Philip Morris International,31.4,8.8,37.7,150.6,USA,North America,37.09024,-95.712891
+77,UniCredit Group,54.2,1.1,1221.9,29.0,Italy,Europe,41.87194,12.56738
+78,Oil & Natural Gas,28.9,5.5,52.1,50.5,India,Asia,20.593684,78.96288
+79,TNK-BP Holding,43.3,7.6,43.3,33.0,Russia,Europe,61.52401,105.318756
+80,Canadian Imperial Bank,17.1,3.0,393.2,32.0,Canada,North America,56.130366,-106.346771
+81,BG Group,19.3,4.6,64.4,60.6,UK,Europe,55.378051,-3.435973
+82,PNC Financial Services,16.6,3.0,305.1,35.3,USA,North America,37.09024,-95.712891
+83,SAIC Motor,75.0,3.3,48.1,26.7,China,Asia,35.86166,104.195397
+84,France Telecom,57.4,1.5,113.9,29.2,France,Europe,46.227638,2.213749
+85,EI du Pont de Nemours,35.3,2.8,49.7,46.6,USA,North America,37.09024,-95.712891
+86,ItaÃºsa,27.8,2.2,172.4,25.4,Brazil,South America,-14.235004,-51.92528
+87,Renault,54.4,2.3,98.9,20.3,France,Europe,46.227638,2.213749
+88,L'OrÃ©al Group,28.9,3.7,39.0,94.8,France,Europe,46.227638,2.213749
+89,National Grid,21.7,3.3,75.6,40.7,UK,Europe,55.378051,-3.435973
+90,McDonald's,27.6,5.5,35.4,99.9,USA,North America,37.09024,-95.712891
+91,Mondelez International,35.0,1.6,75.5,50.5,USA,North America,37.09024,-95.712891
+92,Posco,56.5,2.2,74.5,22.9,South Korea,Asia,35.907757,127.766922
+93,Aflac,25.4,2.9,131.1,23.9,USA,North America,37.09024,-95.712891
+94,SABMiller,16.7,4.3,55.0,84.1,UK,Europe,55.378051,-3.435973
+95,Union Pacific,20.9,3.9,47.2,66.5,USA,North America,37.09024,-95.712891
+96,Japan Tobacco,24.6,3.9,43.0,61.6,Japan,Asia,36.204824,138.252924
+97,Dow Chemical,56.8,1.2,69.6,40.7,USA,North America,37.09024,-95.712891
+98,Bank of New York Mellon,15.1,2.4,359.0,33.5,USA,North America,37.09024,-95.712891
+99,Christian Dior,38.6,1.8,69.9,32.0,France,Europe,46.227638,2.213749
+100,Duke Energy,19.6,1.8,113.9,49.3,USA,North America,37.09024,-95.712891
+101,Telstra,25.8,3.5,40.5,58.4,Australia,Oceania,-25.274398,133.775136
+102,Walgreen,70.8,2.1,35.6,40.2,USA,North America,37.09024,-95.712891
+103,Dell,56.9,2.4,47.5,25.0,USA,North America,37.09024,-95.712891
+104,Aegon,55.2,2.0,483.2,12.7,The Netherlands,Europe,52.132633,5.291266
+105,Legal & General Group,56.9,1.3,562.9,15.5,UK,Europe,55.378051,-3.435973
+106,Lockheed Martin,47.2,2.7,38.7,29.9,USA,North America,37.09024,-95.712891
+107,SAP,20.9,3.6,35.5,103.9,Germany,Europe,51.165691,10.451526
+108,JX Holdings,129.5,2.1,80.7,14.4,Japan,Asia,36.204824,138.252924
+109,Carrefour,101.3,1.6,59.4,19.8,France,Europe,46.227638,2.213749
+110,Eli Lilly & Co,22.6,4.1,34.4,62.5,USA,North America,37.09024,-95.712891
+111,East Japan Railway,30.6,1.3,82.9,32.5,Japan,Asia,36.204824,138.252924
+112,BT Group,30.9,3.2,37.3,32.5,UK,Europe,55.378051,-3.435973
+113,Old Mutual,32.2,1.9,230.4,15.5,UK,Europe,55.378051,-3.435973
+114,People's Insurance Company,41.3,1.1,110.5,24.4,China,Asia,35.86166,104.195397
+115,EMC,21.7,2.7,38.1,53.3,USA,North America,37.09024,-95.712891
+116,Danone,27.5,2.2,38.0,43.3,France,Europe,46.227638,2.213749
+117,Altria Group,17.5,4.2,35.3,67.7,USA,North America,37.09024,-95.712891
+118,Teva Pharmaceutical Inds,20.9,2.0,50.5,35.5,Israel,Asia,31.046051,34.851612
+119,Hess,37.7,2.0,43.4,24.8,USA,North America,37.09024,-95.712891
+120,McKesson,123.5,1.6,33.4,25.7,USA,North America,37.09024,-95.712891
+121,Gas Natural Fenosa,32.9,1.9,60.4,20.4,Spain,Europe,40.463667,-3.74922
+122,China Everbright Bank,13.5,2.9,275.1,21.0,China,Asia,35.86166,104.195397
+123,SEB,14.4,1.8,376.8,23.5,Sweden,Europe,60.128161,18.643501
+124,Centrica,38.9,2.1,35.4,27.7,UK,Europe,55.378051,-3.435973
+125,Svenska Handelsbanken,11.5,2.2,367.0,28.2,Sweden,Europe,60.128161,18.643501
+126,Bridgestone,38.1,2.2,35.1,27.4,Japan,Asia,36.204824,138.252924
+127,Time Warner Cable,21.4,2.2,49.8,27.3,USA,North America,37.09024,-95.712891
+128,Marubeni,53.0,2.1,61.9,13.7,Japan,Asia,36.204824,138.252924
+129,United Parcel Service,54.1,0.8,38.9,81.5,USA,North America,37.09024,-95.712891
+130,Apache,17.1,2.0,60.7,29.6,USA,North America,37.09024,-95.712891
+131,AbbVie,18.0,5.3,27.0,60.9,USA,North America,37.09024,-95.712891
+132,Exelon,23.5,1.2,78.6,28.5,USA,North America,37.09024,-95.712891
+133,Halliburton,28.5,2.6,27.4,39.0,USA,North America,37.09024,-95.712891
+134,Bristol-Myers Squibb,17.6,2.0,35.9,63.8,USA,North America,37.09024,-95.712891
+135,Denso,38.1,1.1,43.2,34.9,Japan,Asia,36.204824,138.252924
+136,Brookfield Asset Management,18.6,1.4,108.6,23.0,Canada,North America,56.130366,-106.346771
+137,Kia Motors,42.0,3.4,30.5,19.8,South Korea,Asia,35.907757,127.766922
+138,Prudential Financial,84.8,0.5,709.3,28.1,USA,North America,37.09024,-95.712891
+139,VimpelCom,23.1,2.1,55.4,19.0,The Netherlands,Europe,52.132633,5.291266
+140,Linde,20.2,1.6,43.5,35.2,Germany,Europe,51.165691,10.451526
+141,DBS Group,8.8,3.1,288.9,30.7,Singapore,Asia,1.352083,103.819836
+142,Danaher,18.3,2.4,32.9,43.1,USA,North America,37.09024,-95.712891
+143,China Pacific Insurance,27.3,0.8,109.3,28.6,China,Asia,35.86166,104.195397
+144,China Communications Construction,45.7,1.9,69.6,12.9,China,Asia,35.86166,104.195397
+145,NextEra Energy,14.3,1.9,64.4,31.6,USA,North America,37.09024,-95.712891
+146,Air Luquide,20.2,2.1,32.5,39.3,France,Europe,46.227638,2.213749
+147,TeliaSonera,16.1,3.1,38.1,31.0,Sweden,Europe,60.128161,18.643501
+148,Canadian Natural Resources,14.7,1.9,49.2,36.0,Canada,North America,56.130366,-106.346771
+149,Husky Energy,22.5,2.0,35.3,29.0,Canada,North America,56.130366,-106.346771
+150,Cigna,29.1,1.6,53.7,17.9,USA,North America,37.09024,-95.712891
+151,Ericsson,35.0,0.9,40.4,44.1,Sweden,Europe,60.128161,18.643501
+152,CNP Assurances,53.2,1.2,466.1,9.9,France,Europe,46.227638,2.213749
+153,Singtel,15.0,3.2,31.4,45.7,Singapore,Asia,1.352083,103.819836
+154,Imperial Tobacco Group,23.7,1.1,44.4,35.2,UK,Europe,55.378051,-3.435973
+155,Oversea-Chinese Banking,8.3,3.3,242.2,29.0,Singapore,Asia,1.352083,103.819836
+156,Heineken Holding,24.3,1.9,46.7,18.6,The Netherlands,Europe,52.132633,5.291266
+157,Deutsche Bank,55.0,0.4,2652.6,41.3,Germany,Europe,51.165691,10.451526
+158,Mitsubishi Electric,44.0,1.4,39.1,18.8,Japan,Asia,36.204824,138.252924
+159,Emerson Electric,24.7,2.1,23.8,41.6,USA,North America,37.09024,-95.712891
+160,Sun Hung Kai Properties,8.8,5.6,60.3,36.4,Hong Kong,Asia,22.396428,114.109497
+161,ICICI Bank,13.2,1.5,118.0,22.8,India,Asia,20.593684,78.96288
+162,Aetna,36.6,1.7,41.5,16.7,USA,North America,37.09024,-95.712891
+163,China Vanke,15.5,2.0,60.3,18.9,China,Asia,35.86166,104.195397
+164,Visa,10.7,2.4,35.9,104.8,USA,North America,37.09024,-95.712891
+165,China Railway Construction,74.5,1.3,77.1,10.4,China,Asia,35.86166,104.195397
+166,Accenture,30.1,3.1,16.4,53.3,Ireland,Europe,53.41291,-8.24389
+167,Sasol,20.8,2.9,24.7,29.4,South Africa,Africa,-30.559482,22.937506
+168,Inditex,20.6,3.0,17.5,83.3,Spain,Europe,40.463667,-3.74922
+169,KBC Group,21.7,0.8,338.7,16.3,Belgium,Europe,50.503887,4.469936
+170,BAE Systems,26.3,1.7,36.2,18.8,UK,Europe,55.378051,-3.435973
+171,KB Financial Group,15.6,1.5,265.1,13.2,South Korea,Asia,35.907757,127.766922
+172,Fresenius,24.8,1.2,40.5,22.1,Germany,Europe,51.165691,10.451526
+173,Samsung Life Insurance,19.1,0.8,142.2,17.7,South Korea,Asia,35.907757,127.766922
+174,Maybank,9.1,1.9,161.4,24.3,Malaysia,Asia,4.210484,101.975766
+175,Tata Motors,32.6,2.7,27.6,15.9,India,Asia,20.593684,78.96288
+176,Kroger,96.8,1.5,24.7,16.3,USA,North America,37.09024,-95.712891
+177,Carnival,15.4,1.5,38.7,28.4,Panama,North America,8.537981,-80.782127
+178,Chubb,13.6,1.5,52.2,22.3,USA,North America,37.09024,-95.712891
+179,Garanti Bank,9.8,1.9,99.2,22.0,Turkey,Europe,38.963745,35.243322
+180,NIKE,25.3,2.4,15.6,49.4,USA,North America,37.09024,-95.712891
+181,United Overseas Bank,7.2,2.3,207.0,25.1,Singapore,Asia,1.352083,103.819836
+182,Eaton,16.3,1.2,35.8,29.5,Ireland,Europe,53.41291,-8.24389
+183,Femsa,18.5,1.6,22.6,37.7,Mexico,North America,23.634501,-102.552784
+184,Raytheon,24.4,1.9,26.7,18.9,USA,North America,37.09024,-95.712891
+185,Kimberly-Clark,21.1,1.8,19.9,36.2,USA,North America,37.09024,-95.712891
+186,Michelin Group,28.3,2.1,26.4,16.2,France,Europe,46.227638,2.213749
+187,Thomson Reuters,13.3,2.1,32.6,26.7,Canada,North America,56.130366,-106.346771
+188,Kraft Foods Group,18.3,1.6,23.3,29.8,USA,North America,37.09024,-95.712891
+189,Northrop Grumman,25.2,2.0,26.5,16.3,USA,North America,37.09024,-95.712891
+190,Illinois Tool Works,17.9,2.9,19.3,28.3,USA,North America,37.09024,-95.712891
+191,SK Innovation,65.1,1.1,31.8,13.7,South Korea,Asia,35.907757,127.766922
+192,Safran,18.0,1.7,30.0,19.6,France,Europe,46.227638,2.213749
+193,CenturyLink,18.4,0.8,54.0,21.5,USA,North America,37.09024,-95.712891
+194,Baxter International,14.2,2.3,20.4,37.9,USA,North America,37.09024,-95.712891
+195,Freddie Mac,80.6,11.0,1989.9,1.3,USA,North America,37.09024,-95.712891
+196,AMP,17.2,0.7,122.1,16.0,Australia,Oceania,-25.274398,133.775136
+197,Baker Hughes,21.4,1.3,26.7,21.2,USA,North America,37.09024,-95.712891
+198,Coal India,12.3,2.9,20.8,37.4,India,Asia,20.593684,78.96288
+199,Hyundai Heavy Industries,48.8,0.9,46.3,11.6,South Korea,Asia,35.907757,127.766922
+200,Viacom,13.2,2.2,21.9,31.3,USA,North America,37.09024,-95.712891
+201,Woori Finance Holdings,15.2,1.4,306.2,9.0,South Korea,Asia,35.907757,127.766922
+202,Norilsk Nickel,12.8,3.3,18.8,32.9,Russia,Europe,61.52401,105.318756
+203,Alstom,26.6,1.0,39.4,14.0,France,Europe,46.227638,2.213749
+204,International Paper,27.8,0.8,32.2,20.1,USA,North America,37.09024,-95.712891
+205,PPL,12.3,1.5,43.6,17.8,USA,North America,37.09024,-95.712891
+206,Lloyds Banking Group,75.6,-2.3,1495.9,53.8,UK,Europe,55.378051,-3.435973
+207,Gilead Sciences,9.7,2.6,21.2,68.4,USA,North America,37.09024,-95.712891
+208,Mitsubishi Estate,12.2,0.7,53.2,40.8,Japan,Asia,36.204824,138.252924
+209,FirstRand,8.4,1.6,94.1,18.0,South Africa,Africa,-30.559482,22.937506
+210,Mapfre,27.1,0.9,69.2,10.7,Spain,Europe,40.463667,-3.74922
+211,Automatic Data,10.9,1.4,33.3,31.3,USA,North America,37.09024,-95.712891
+212,Colgate-Palmolive,17.1,2.5,13.4,52.4,USA,North America,37.09024,-95.712891
+213,Huaneng Power International,21.1,0.9,41.2,14.9,China,Asia,35.86166,104.195397
+214,TransCanada,8.0,1.4,48.5,33.9,Canada,North America,56.130366,-106.346771
+215,Texas Instruments,12.8,1.8,20.0,38.8,USA,North America,37.09024,-95.712891
+216,QBE Insurance Group,17.0,0.8,50.8,17.0,Australia,Oceania,-25.274398,133.775136
+217,EXOR,117.5,0.7,159.4,7.1,Italy,Europe,41.87194,12.56738
+218,Lafarge,20.9,0.6,50.5,20.3,France,Europe,46.227638,2.213749
+219,Norfolk Southern,11.0,1.7,30.3,23.7,USA,North America,37.09024,-95.712891
+220,Covidien,12.0,1.9,22.0,30.9,Ireland,Europe,53.41291,-8.24389
+221,Mitsui Fudosan,16.2,0.6,46.9,25.2,Japan,Asia,36.204824,138.252924
+222,Macy's,27.7,1.3,21.0,16.2,USA,North America,37.09024,-95.712891
+223,Las Vegas Sands,11.1,1.5,22.2,44.1,USA,North America,37.09024,-95.712891
+224,Ageas,20.6,1.0,128.0,8.5,Belgium,Europe,50.503887,4.469936
+225,Bouygues,44.3,0.8,48.1,9.4,France,Europe,46.227638,2.213749
+226,Ahold,43.3,1.1,19.4,15.7,The Netherlands,Europe,52.132633,5.291266
+227,Sampo,8.4,1.9,41.4,22.2,Finland,Europe,61.92411,25.748151
+228,Consolidated Edison,12.2,1.1,41.2,17.3,USA,North America,37.09024,-95.712891
+229,Rio Tinto,51.0,-3.0,117.6,98.5,UK,Europe,55.378051,-3.435973
+230,CLP Holdings,13.5,1.1,29.4,21.7,Hong Kong,Asia,22.396428,114.109497
+231,Novo Nordisk,13.8,3.8,11.2,95.0,Denmark,Europe,56.26392,9.501785
+232,Lincoln National,11.5,1.3,218.9,9.1,USA,North America,37.09024,-95.712891
+233,Morgan Stanley,32.0,0.1,781.0,46.6,USA,North America,37.09024,-95.712891
+234,Macquarie Group,11.4,0.8,157.8,13.5,Australia,Oceania,-25.274398,133.775136
+235,Rogers Communications,12.5,1.7,19.7,25.3,Canada,North America,56.130366,-106.346771
+236,Shin-Etsu Chemical,12.7,1.2,21.8,28.7,Japan,Asia,36.204824,138.252924
+237,Fifth Third Bancorp,7.1,1.6,121.9,14.7,USA,North America,37.09024,-95.712891
+238,CRH,24.6,0.7,27.6,16.7,Ireland,Europe,53.41291,-8.24389
+239,Bharti Airtel,14.0,0.8,29.8,21.8,India,Asia,20.593684,78.96288
+240,Xerox,22.4,1.2,30.0,10.7,USA,North America,37.09024,-95.712891
+241,CrÃ©dit Agricole,51.2,-8.3,2431.4,23.4,France,Europe,46.227638,2.213749
+242,Porsche Automobil Holding,5.2,10.3,41.1,24.5,Germany,Europe,51.165691,10.451526
+243,National Bank of Canada,7.1,1.6,184.0,12.3,Canada,North America,56.130366,-106.346771
+244,Humana,39.1,1.2,20.0,11.1,USA,North America,37.09024,-95.712891
+245,CIMB Group Holdings,6.3,1.4,110.2,16.8,Malaysia,Asia,4.210484,101.975766
+246,Lotte Shopping,22.2,1.0,34.6,10.3,South Korea,Asia,35.907757,127.766922
+247,Paccar,17.0,1.1,18.6,18.0,USA,North America,37.09024,-95.712891
+248,Aon,11.5,1.0,30.5,18.7,UK,Europe,55.378051,-3.435973
+249,Kinder Morgan,10.0,0.4,68.5,41.2,USA,North America,37.09024,-95.712891
+250,TJX Cos,25.9,1.9,9.5,32.8,USA,North America,37.09024,-95.712891
+251,Fortum,8.1,1.9,32.3,17.6,Finland,Europe,61.92411,25.748151
+252,LG Chem,21.9,1.4,15.4,16.2,South Korea,Asia,35.907757,127.766922
+253,Tatneft,13.0,2.1,19.5,14.8,Russia,Europe,61.52401,105.318756
+254,H&M,18.1,2.5,8.8,59.8,Sweden,Europe,60.128161,18.643501
+255,Bank of Beijing,6.3,1.4,151.7,13.1,China,Asia,35.86166,104.195397
+256,Mosaic,10.1,1.9,17.3,26.7,USA,North America,37.09024,-95.712891
+257,GFNorte,7.7,0.8,70.6,18.5,Mexico,North America,23.634501,-102.552784
+258,Associated British Foods,19.8,0.9,16.2,22.7,UK,Europe,55.378051,-3.435973
+259,Origin Energy,13.2,1.0,28.7,14.9,Australia,Oceania,-25.274398,133.775136
+260,Telus,11.0,1.3,20.5,22.3,Canada,North America,56.130366,-106.346771
+261,Etisalat,9.0,1.8,21.8,21.8,United Arab Emirates,Asia,23.424076,53.847818
+262,Progressive,17.1,0.9,22.7,15.2,USA,North America,37.09024,-95.712891
+263,Corning,8.0,1.7,29.4,19.0,USA,North America,37.09024,-95.712891
+264,Reed Elsevier,9.9,1.7,17.9,25.6,UK,Europe,55.378051,-3.435973
+265,Tokio Marine Holdings,39.4,0.1,196.4,23.5,Japan,Asia,36.204824,138.252924
+266,Sony,78.5,-5.5,160.3,17.6,Japan,Asia,36.204824,138.252924
+267,New China Life Insurance,18.0,0.5,79.2,11.8,China,Asia,35.86166,104.195397
+268,Cummins,17.3,1.5,12.5,22.3,USA,North America,37.09024,-95.712891
+269,Omnicom Group,14.2,1.0,22.2,15.7,USA,North America,37.09024,-95.712891
+270,Qatar National Bank,4.0,2.3,100.8,25.7,Qatar,Asia,25.354826,51.183884
+271,Tenaga Nasional,11.5,1.3,28.3,12.6,Malaysia,Asia,4.210484,101.975766
+272,Swire Pacific,5.7,2.3,41.5,18.8,Hong Kong,Asia,22.396428,114.109497
+273,Toyota Industries,18.6,0.7,32.2,11.7,Japan,Asia,36.204824,138.252924
+274,J Sainsbury,35.7,1.0,19.7,10.4,UK,Europe,55.378051,-3.435973
+275,Aviva,69.0,-5.1,512.7,14.5,UK,Europe,55.378051,-3.435973
+276,Cheung Kong Holdings,2.5,4.1,49.4,33.7,Hong Kong,Asia,22.396428,114.109497
+277,Carlsberg,11.6,1.0,27.2,15.8,Denmark,Europe,56.26392,9.501785
+278,Larsen & Toubro,12.6,0.9,23.8,17.2,India,Asia,20.593684,78.96288
+279,Saudi Electricity,9.0,0.7,63.6,15.3,Saudi Arabia,Asia,23.885942,45.079162
+280,Waste Management,13.6,0.8,23.1,17.4,USA,North America,37.09024,-95.712891
+281,CaixaBank,16.3,0.3,450.1,16.8,Spain,Europe,40.463667,-3.74922
+282,Nomura Holdings,22.4,0.1,431.3,23.6,Japan,Asia,36.204824,138.252924
+283,Fujitsu,54.0,0.5,35.0,9.2,Japan,Asia,36.204824,138.252924
+284,Charles Schwab,5.0,0.9,133.6,22.8,USA,North America,37.09024,-95.712891
+285,SSE,50.8,0.3,31.1,21.2,UK,Europe,55.378051,-3.435973
+286,Sime Darby,15.0,1.3,14.9,17.3,Malaysia,Asia,4.210484,101.975766
+287,Philips,32.7,0.3,35.8,27.5,The Netherlands,Europe,52.132633,5.291266
+288,Mitsubishi Heavy Industries,34.1,0.3,48.0,18.8,Japan,Asia,36.204824,138.252924
+289,Korea Electric Power,43.9,-2.8,129.3,17.4,South Korea,Asia,35.907757,127.766922
+290,KT Corp,21.1,0.9,32.4,8.1,South Korea,Asia,35.907757,127.766922
+291,Aisin Seiki,27.8,0.7,24.7,10.6,Japan,Asia,36.204824,138.252924
+292,Entergy,10.3,0.9,43.2,11.6,USA,North America,37.09024,-95.712891
+293,Simon Property Group,4.9,1.4,32.6,49.5,USA,North America,37.09024,-95.712891
+294,AmerisourceBergen,80.6,0.7,15.5,11.3,USA,North America,37.09024,-95.712891
+295,Xcel Energy,10.1,0.9,31.1,14.2,USA,North America,37.09024,-95.712891
+296,HDFC,5.9,1.1,41.6,23.3,India,Asia,20.593684,78.96288
+297,Sumitomo Realty,8.3,0.6,46.7,18.4,Japan,Asia,36.204824,138.252924
+298,Yara International,15.1,1.9,14.4,13.2,Norway,Europe,60.472024,8.468946
+299,Quanta Computer,34.4,0.8,24.6,8.5,Taiwan,Asia,23.69781,120.960515
+300,Falabella,11.5,0.8,17.9,26.8,Chile,South America,-35.675147,-71.542969
+301,Western Digital,15.6,2.1,13.9,12.1,USA,North America,37.09024,-95.712891
+302,Cencosud,19.1,0.6,19.7,17.4,Chile,South America,-35.675147,-71.542969
+303,MS&AD Insurance,42.2,-2.0,173.4,14.1,Japan,Asia,36.204824,138.252924
+304,Wim Morrison Supermarkets,28.8,1.0,16.6,9.5,UK,Europe,55.378051,-3.435973
+305,Air Products & Chemicals,9.9,1.2,17.4,18.7,USA,North America,37.09024,-95.712891
+306,Tokyo Gas,21.2,0.6,22.2,13.5,Japan,Asia,36.204824,138.252924
+307,Fujifilm Holdings,26.5,0.5,32.4,9.4,Japan,Asia,36.204824,138.252924
+308,SCA,13.1,0.7,20.2,17.3,Sweden,Europe,60.128161,18.643501
+309,Ecolab,11.8,0.7,17.6,23.5,USA,North America,37.09024,-95.712891
+310,Dominion Resources,13.1,0.3,46.8,32.7,USA,North America,37.09024,-95.712891
+311,Tata Steel,26.1,1.0,28.8,6.4,India,Asia,20.593684,78.96288
+312,Sodexo,22.9,0.7,15.9,14.3,France,Europe,46.227638,2.213749
+313,Public Bank,4.2,1.3,89.8,18.0,Malaysia,Asia,4.210484,101.975766
+314,Ferrovial,10.1,0.9,27.2,11.9,Spain,Europe,40.463667,-3.74922
+315,Yum Brands,13.6,1.6,9.0,31.6,USA,North America,37.09024,-95.712891
+316,Unum Group,10.5,0.9,62.2,7.5,USA,North America,37.09024,-95.712891
+317,Annaly Capital Management,3.3,1.7,133.5,14.8,USA,North America,37.09024,-95.712891
+318,Starbucks,13.7,1.4,8.5,43.2,USA,North America,37.09024,-95.712891
+319,PTT Global Chemical,18.5,1.1,14.2,11.3,Thailand,Asia,15.870032,100.992541
+320,Sprint Nextel,35.3,-4.3,51.6,17.5,USA,North America,37.09024,-95.712891
+321,SLM,6.1,0.9,181.3,9.0,USA,North America,37.09024,-95.712891
+322,Bank Central Asia,4.0,1.2,46.0,27.1,Indonesia,Asia,-0.789275,113.921327
+323,Publicis Groupe,8.7,1.0,21.8,14.7,France,Europe,46.227638,2.213749
+324,DISH Network,14.3,0.6,17.4,15.9,USA,North America,37.09024,-95.712891
+325,T&D Holdings,24.5,0.3,155.1,8.1,Japan,Asia,36.204824,138.252924
+326,Isuzu Motors,16.9,1.1,14.6,10.5,Japan,Asia,36.204824,138.252924
+327,Unibail-Rodamco,2.3,1.9,39.0,22.2,France,Europe,46.227638,2.213749
+328,HJ Heinz,11.6,1.0,11.9,23.2,USA,North America,37.09024,-95.712891
+329,MTR,4.6,1.7,26.7,23.0,Hong Kong,Asia,22.396428,114.109497
+330,China National Building,13.8,0.9,31.2,7.5,China,Asia,35.86166,104.195397
+331,Westfield Group,2.5,1.8,35.3,25.4,Australia,Oceania,-25.274398,133.775136
+332,Virgin Media,6.7,4.6,17.1,24.3,USA,North America,37.09024,-95.712891
+333,M&T Bank,4.6,1.0,83.0,13.4,USA,North America,37.09024,-95.712891
+334,Tata Consultancy Services,9.6,2.0,8.1,56.9,India,Asia,20.593684,78.96288
+335,Fanuc,6.5,1.7,13.7,29.7,Japan,Asia,36.204824,138.252924
+336,Bangkok Bank,4.3,1.1,79.1,15.1,Thailand,Asia,15.870032,100.992541
+337,Ensco,6.8,1.8,18.5,14.1,UK,Europe,55.378051,-3.435973
+338,HollyFrontier,20.1,1.7,10.3,10.8,USA,North America,37.09024,-95.712891
+339,George Weston,32.8,0.5,21.9,9.1,Canada,North America,56.130366,-106.346771
+340,Evergrande Real Estate,10.3,1.5,31.1,6.9,China,Asia,35.86166,104.195397
+341,Jiangxi Copper,25.0,0.8,12.5,10.8,China,Asia,35.86166,104.195397
+342,Grupo Aval,6.1,0.7,57.4,13.2,Colombia,South America,4.570868,-74.297333
+343,Commerzbank,25.5,0.0,838.3,9.2,Germany,Europe,51.165691,10.451526
+344,JBS,38.9,0.4,24.3,10.4,Brazil,South America,-14.235004,-51.92528
+345,Inter Rao,18.3,1.2,16.6,7.2,Russia,Europe,61.52401,105.318756
+346,Barrick Gold,14.5,-0.7,47.3,28.7,Canada,North America,56.130366,-106.346771
+347,Wheelock & Co,4.3,3.5,49.4,10.0,Hong Kong,Asia,22.396428,114.109497
+348,Dollar General,16.0,1.0,10.4,15.8,USA,North America,37.09024,-95.712891
+349,Spectra Energy,5.1,0.9,30.6,19.3,USA,North America,37.09024,-95.712891
+350,Gree Electric Appliances,13.3,0.8,13.5,13.5,China,Asia,35.86166,104.195397
+351,Kao Corp,15.4,0.7,12.0,17.4,Japan,Asia,36.204824,138.252924
+352,Asahi Kasei,19.0,0.7,16.9,9.2,Japan,Asia,36.204824,138.252924
+353,Henderson Land,2.0,2.6,33.9,15.1,Hong Kong,Asia,22.396428,114.109497
+354,Axis Bank,5.3,0.8,55.8,11.6,India,Asia,20.593684,78.96288
+355,Stanley Black & Decker,10.2,0.9,15.8,13.0,USA,North America,37.09024,-95.712891
+356,NKSJ Holdings,30.9,-1.1,105.2,9.4,Japan,Asia,36.204824,138.252924
+357,Deutsche Boerse,2.8,0.8,285.5,12.5,Germany,Europe,51.165691,10.451526
+358,Idemitsu Kosan,52.1,0.8,32.4,3.5,Japan,Asia,36.204824,138.252924
+359,Sekisui House,20.0,0.6,16.9,9.4,Japan,Asia,36.204824,138.252924
+360,Metro Group,88.0,0.0,45.8,9.3,Germany,Europe,51.165691,10.451526
+361,Lenovo Group,29.6,0.5,15.5,10.4,China,Asia,35.86166,104.195397
+362,San Miguel,16.6,0.7,25.1,7.0,Philippines,Asia,12.879721,121.774017
+363,MegaFon,8.8,1.2,11.5,17.6,Russia,Europe,61.52401,105.318756
+364,"Becton, Dickinson",7.8,1.5,11.6,17.9,USA,North America,37.09024,-95.712891
+365,British Sky Broadcasting,10.7,1.4,8.6,21.6,UK,Europe,55.378051,-3.435973
+366,DTE Energy,8.8,0.6,26.3,11.4,USA,North America,37.09024,-95.712891
+367,ConAgra Foods,13.8,0.7,12.5,14.4,USA,North America,37.09024,-95.712891
+368,Gap,15.7,1.1,7.5,17.5,USA,North America,37.09024,-95.712891
+369,VF,10.9,1.1,9.6,18.2,USA,North America,37.09024,-95.712891
+370,XL Group,7.2,0.7,45.4,9.0,Ireland,Europe,53.41291,-8.24389
+371,VakifBank,6.3,0.8,60.6,7.9,Turkey,Europe,38.963745,35.243322
+372,Noble Group,94.0,0.5,19.7,6.2,Hong Kong,Asia,22.396428,114.109497
+373,Novolipetsk Steel,12.2,0.6,18.5,10.7,Russia,Europe,61.52401,105.318756
+374,Punjab National Bank,8.2,1.0,92.3,5.0,India,Asia,20.593684,78.96288
+375,Motorola Solutions,8.7,0.9,12.7,17.1,USA,North America,37.09024,-95.712891
+376,KeyCorp,4.7,0.9,89.2,9.3,USA,North America,37.09024,-95.712891
+377,New World Development,4.6,1.3,36.8,10.7,Hong Kong,Asia,22.396428,114.109497
+378,Severstal,14.1,0.8,15.7,8.7,Russia,Europe,61.52401,105.318756
+379,Anhui Conch Cement,7.2,1.0,14.0,15.9,China,Asia,35.86166,104.195397
+380,LG Electronics,45.3,0.1,29.6,11.6,South Korea,Asia,35.907757,127.766922
+381,Technip,10.8,0.7,14.9,11.8,France,Europe,46.227638,2.213749
+382,Krung Thai Bank,4.1,0.8,73.7,12.4,Thailand,Asia,15.870032,100.992541
+383,Industries Qatar,5.1,2.3,11.0,26.5,Qatar,Asia,25.354826,51.183884
+384,Asahi Glass,14.9,0.5,21.9,7.8,Japan,Asia,36.204824,138.252924
+385,China Yangtze Power,3.3,1.2,25.2,19.4,China,Asia,35.86166,104.195397
+386,SCOR,13.4,0.6,43.0,5.8,France,Europe,46.227638,2.213749
+387,Newcrest Mining,4.5,1.1,20.8,17.5,Australia,Oceania,-25.274398,133.775136
+388,Tyson Foods,33.4,0.6,11.9,8.7,USA,North America,37.09024,-95.712891
+389,Biogen Idec,5.5,1.4,10.1,41.8,USA,North America,37.09024,-95.712891
+390,Grupo ACS,50.7,-2.5,51.5,7.7,Spain,Europe,40.463667,-3.74922
+391,Reynolds American,4.4,1.3,16.6,23.8,USA,North America,37.09024,-95.712891
+392,Couche Tard,33.0,0.5,10.5,10.2,Canada,North America,56.130366,-106.346771
+393,Seadrill,4.5,1.1,19.6,17.6,Bermuda,North America,32.321384,-64.75737
+394,Antofagasta,6.7,1.0,12.9,16.1,UK,Europe,55.378051,-3.435973
+395,Magnit,14.4,0.8,5.5,18.8,Russia,Europe,61.52401,105.318756
+396,Marks & Spencer,15.9,0.8,11.6,9.1,UK,Europe,55.378051,-3.435973
+397,Northeast Utilities,6.3,0.5,28.3,13.4,USA,North America,37.09024,-95.712891
+398,First Gulf Bank,2.6,1.1,47.7,11.1,United Arab Emirates,Asia,23.424076,53.847818
+399,Tesoro,33.0,0.7,10.7,7.8,USA,North America,37.09024,-95.712891
+400,Devon Energy,9.5,-0.2,43.3,23.6,USA,North America,37.09024,-95.712891
+401,Bharat Heavy Electicals,9.4,1.4,12.9,9.0,India,Asia,20.593684,78.96288
+402,Edison International,11.9,-0.1,44.4,16.6,USA,North America,37.09024,-95.712891
+403,Sinohydro Group,18.0,0.6,25.8,5.5,China,Asia,35.86166,104.195397
+404,Safeway,44.2,0.6,14.7,6.0,USA,North America,37.09024,-95.712891
+405,Cemex,15.3,-0.9,35.9,13.6,Mexico,North America,23.634501,-102.552784
+406,Republic Services,8.1,0.6,19.6,11.5,USA,North America,37.09024,-95.712891
+407,Chesapeake Energy,12.3,-0.8,41.6,15.0,USA,North America,37.09024,-95.712891
+408,Akzo Nobel,20.3,-2.9,22.6,16.2,The Netherlands,Europe,52.132633,5.291266
+409,Pgnig Group,8.8,0.7,15.5,11.0,Poland,Europe,51.919438,19.145136
+410,Infosys,6.6,1.6,7.5,30.5,India,Asia,20.593684,78.96288
+411,Citic Pacific,12.0,0.9,31.9,4.7,Hong Kong,Asia,22.396428,114.109497
+412,Noble Energy,4.2,1.0,17.6,20.8,USA,North America,37.09024,-95.712891
+413,Cameron International,8.5,0.8,11.2,16.5,USA,North America,37.09024,-95.712891
+414,Samsung Heavy Industries,12.9,0.7,15.6,7.5,South Korea,Asia,35.907757,127.766922
+415,IDGC Holding,19.7,0.7,27.3,2.6,Russia,Europe,61.52401,105.318756
+416,GD Power Development,8.0,0.6,29.2,8.0,China,Asia,35.86166,104.195397
+417,Bank of East Asia,3.7,0.8,89.3,9.0,Hong Kong,Asia,22.396428,114.109497
+418,L-3 Communications,13.1,0.8,13.8,7.3,USA,North America,37.09024,-95.712891
+419,Allergan,5.8,1.1,9.2,32.7,USA,North America,37.09024,-95.712891
+420,AES,18.1,-0.9,41.8,9.3,USA,North America,37.09024,-95.712891
+421,Allied Irish Banks,4.6,-4.8,161.5,50.0,Ireland,Europe,53.41291,-8.24389
+422,DaVita,8.2,0.5,16.0,12.5,USA,North America,37.09024,-95.712891
+423,Wipro,7.3,1.1,8.5,20.1,India,Asia,20.593684,78.96288
+424,All Nippon Airways,17.1,0.3,23.5,7.8,Japan,Asia,36.204824,138.252924
+425,Grupo Inbursa,3.6,0.7,26.2,18.5,Mexico,North America,23.634501,-102.552784
+426,Cognizant Technology,7.3,1.1,6.5,23.6,USA,North America,37.09024,-95.712891
+427,Sumitomo Metal Mining,10.2,0.8,13.9,8.0,Japan,Asia,36.204824,138.252924
+428,LG Display,26.1,0.2,23.0,10.4,South Korea,Asia,35.907757,127.766922
+429,Unipol Gruppo,17.8,0.3,109.7,1.8,Italy,Europe,41.87194,12.56738
+430,Hanwha Life Insurance,9.4,0.5,61.0,5.3,South Korea,Asia,35.907757,127.766922
+431,Metallurgical Corp of China,34.1,-1.1,56.2,5.9,China,Asia,35.86166,104.195397
+432,Skanska,19.9,0.4,13.4,8.0,Sweden,Europe,60.128161,18.643501
+433,Stora Enso,14.3,0.6,17.9,5.7,Finland,Europe,61.92411,25.748151
+434,CPFL Energia,7.7,0.6,15.2,10.4,Brazil,South America,-14.235004,-51.92528
+435,Tokyo Electric Power,64.6,-9.4,188.8,3.6,Japan,Asia,36.204824,138.252924
+436,ITC,5.2,1.2,5.9,44.1,India,Asia,20.593684,78.96288
+437,Textron,12.2,0.6,13.0,8.4,USA,North America,37.09024,-95.712891
+438,DSM,12.0,0.4,15.3,11.4,The Netherlands,Europe,52.132633,5.291266
+439,Shanghai Electric Group,12.1,0.4,18.3,8.0,China,Asia,35.86166,104.195397
+440,Kone,8.3,0.8,6.5,20.5,Finland,Europe,61.92411,25.748151
+441,Sany Heavy Industry,8.1,1.4,8.1,13.0,China,Asia,35.86166,104.195397
+442,Aluminium Corp of China,23.7,-1.3,28.7,8.4,China,Asia,35.86166,104.195397
+443,Canadian Pacific Railway,5.7,0.5,14.8,22.1,Canada,North America,56.130366,-106.346771
+444,Korea Gas,31.1,0.3,34.3,4.7,South Korea,Asia,35.907757,127.766922
+445,SJM Holdings,10.3,0.9,4.8,13.1,Hong Kong,Asia,22.396428,114.109497
+446,Nikon,11.1,0.7,10.3,9.4,Japan,Asia,36.204824,138.252924
+447,CenterPoint Energy,7.5,0.4,22.9,10.0,USA,North America,37.09024,-95.712891
+448,Hankyu Hanshin Holdings,7.8,0.5,27.6,7.5,Japan,Asia,36.204824,138.252924
+449,Asustek Computer,15.2,0.8,8.7,8.8,Taiwan,Asia,23.69781,120.960515
+450,Discovery Communications,4.5,0.9,12.9,19.0,USA,North America,37.09024,-95.712891
+451,Power Assets Holdings,1.3,1.3,13.1,19.5,Hong Kong,Asia,22.396428,114.109497
+452,Dentsu,22.9,0.4,14.3,8.0,Japan,Asia,36.204824,138.252924
+453,Amcor,12.5,0.4,11.5,11.9,Australia,Oceania,-25.274398,133.775136
+454,Banco Popular EspaÃ±ol,9.1,-3.2,203.2,7.8,Spain,Europe,40.463667,-3.74922
+455,VMware,4.6,0.7,10.6,35.9,USA,North America,37.09024,-95.712891
+456,SKF Group,9.9,0.7,9.1,11.7,Sweden,Europe,60.128161,18.643501
+457,Dexia,26.6,-16.2,534.9,0.1,Belgium,Europe,50.503887,4.469936
+458,Uralkali,3.2,1.1,12.7,22.8,Russia,Europe,61.52401,105.318756
+459,Belgacom,8.5,0.9,10.7,8.9,Belgium,Europe,50.503887,4.469936
+460,Genworth Financial,10.0,0.3,113.3,5.2,USA,North America,37.09024,-95.712891
+461,Galaxy Entertainment,7.3,1.0,5.7,16.7,Hong Kong,Asia,22.396428,114.109497
+462,Assa Abloy,7.2,0.8,9.2,14.9,Sweden,Europe,60.128161,18.643501
+463,Hindalco Industries,15.8,0.7,19.9,3.4,India,Asia,20.593684,78.96288
+464,Chinatrust Financial,2.4,0.6,66.7,8.2,Taiwan,Asia,23.69781,120.960515
+465,IntercontinentalExchange,1.4,0.6,37.2,11.7,USA,North America,37.09024,-95.712891
+466,Genuine Parts,13.0,0.6,6.8,11.7,USA,North America,37.09024,-95.712891
+467,Formosa Plastics,7.4,0.5,11.8,15.3,Taiwan,Asia,23.69781,120.960515
+468,OTP Bank,6.6,0.5,45.8,5.6,Hungary,Europe,47.162494,19.503304
+469,Nordstrom,12.1,0.7,8.1,10.6,USA,North America,37.09024,-95.712891
+470,Vornado Realty,2.8,0.6,22.0,15.6,USA,North America,37.09024,-95.712891
+471,Sabesp,5.5,1.0,12.8,10.5,Brazil,South America,-14.235004,-51.92528
+472,International Airlines,23.9,-1.2,25.6,7.6,UK,Europe,55.378051,-3.435973
+473,Charoen Pokphand Foods,11.7,0.6,10.1,9.0,Thailand,Asia,15.870032,100.992541
+474,Mylan,6.8,0.6,11.9,12.1,USA,North America,37.09024,-95.712891
+475,Whole Foods Market,12.2,0.5,5.1,16.1,USA,North America,37.09024,-95.712891
+476,Grupo Televisa,5.4,0.7,12.6,14.9,Mexico,North America,23.634501,-102.552784
+477,American Tower,2.9,0.6,14.1,29.9,USA,North America,37.09024,-95.712891
+478,Bank Negara Indonesia,3.2,0.7,34.6,9.0,Indonesia,Asia,-0.789275,113.921327
+479,Investec,5.8,0.4,82.1,6.5,UK,Europe,55.378051,-3.435973
+480,Banque Saudi Fransi,1.6,0.8,42.1,7.4,Saudi Arabia,Asia,23.885942,45.079162
+481,Espirito Santo Financial,8.7,0.4,114.5,1.4,Luxembourg,Europe,49.815273,6.129583
+482,Marriott International,11.8,0.6,6.3,12.6,USA,North America,37.09024,-95.712891
+483,Secom,8.2,0.4,13.2,11.6,Japan,Asia,36.204824,138.252924
+484,Kweichow Moutal,3.8,2.1,6.2,29.6,China,Asia,35.86166,104.195397
+485,AngloGold Ashanti,6.1,0.8,12.6,9.5,South Africa,Africa,-30.559482,22.937506
+486,Antarchile,22.8,0.2,22.3,7.5,Chile,South America,-35.675147,-71.542969
+487,Jeronimo Martins,14.0,0.5,5.9,12.8,Portugal,Europe,39.399872,-8.224454
+488,Inveco,4.2,0.7,17.5,12.8,Bermuda,North America,32.321384,-64.75737
+489,PartnerRe,5.6,1.1,23.0,5.4,Bermuda,North America,32.321384,-64.75737
+490,Best Buy,49.6,-0.2,16.8,7.2,USA,North America,37.09024,-95.712891
+491,Onex,27.4,-0.1,36.3,5.3,Canada,North America,56.130366,-106.346771
+492,SK Hynix,9.6,-0.1,17.1,18.0,South Korea,Asia,35.907757,127.766922
+493,Sinopharm Group,21.5,0.3,12.8,8.0,China,Asia,35.86166,104.195397
+494,Weyerhaeuser,7.1,0.4,12.6,16.6,USA,North America,37.09024,-95.712891
+495,Banque Nationale de Belgique,2.4,1.2,165.8,1.4,Belgium,Europe,50.503887,4.469936
+496,Ryanair Holdings,5.8,0.7,12.0,10.7,Ireland,Europe,53.41291,-8.24389
+497,HermÃ¨s International,4.5,1.0,3.5,34.9,France,Europe,46.227638,2.213749
+498,Shizuoka Bank,2.4,0.4,117.8,7.3,Japan,Asia,36.204824,138.252924
+499,Longfor Properties,4.4,1.0,16.8,8.6,China,Asia,35.86166,104.195397
+500,Dassault Aviation,5.1,0.7,13.7,11.9,France,Europe,46.227638,2.213749
+501,Haitong Securities,1.6,0.5,20.3,16.7,China,Asia,35.86166,104.195397
+502,Hershey,6.6,0.7,4.8,18.2,USA,North America,37.09024,-95.712891
+503,Singapore Airlines,11.8,0.3,17.5,10.0,Singapore,Asia,1.352083,103.819836
+504,RHB Capital,2.0,0.6,61.8,6.8,Malaysia,Asia,4.210484,101.975766
+505,Finatis,54.9,0.2,40.0,0.5,France,Europe,46.227638,2.213749
+506,Mechel,11.4,0.7,19.3,2.2,Russia,Europe,61.52401,105.318756
+507,Emirates NBD,3.8,0.6,83.9,5.8,United Arab Emirates,Asia,23.424076,53.847818
+508,Shaw Communications,5.1,0.8,12.5,10.8,Canada,North America,56.130366,-106.346771
+509,Steel Authority of India,9.0,0.7,15.4,5.3,India,Asia,20.593684,78.96288
+510,Bidvest Group,16.4,0.5,6.8,8.1,South Africa,Africa,-30.559482,22.937506
+511,Comerica,2.7,0.5,65.4,6.9,USA,North America,37.09024,-95.712891
+512,Mattel,6.4,0.8,6.5,14.5,USA,North America,37.09024,-95.712891
+513,Bank of Ireland,8.2,-2.4,195.3,6.0,Ireland,Europe,53.41291,-8.24389
+514,CA,4.7,0.9,11.6,11.6,USA,North America,37.09024,-95.712891
+515,Adobe Systems,4.4,0.7,10.2,20.6,USA,North America,37.09024,-95.712891
+516,Avnet,25.2,0.5,10.6,5.0,USA,North America,37.09024,-95.712891
+517,Land Securities Group,1.1,0.8,17.3,9.8,UK,Europe,55.378051,-3.435973
+518,Mitsubishi UFJ Lease,8.8,0.4,44.6,4.3,Japan,Asia,36.204824,138.252924
+519,NetApp,6.3,0.5,10.9,12.4,USA,North America,37.09024,-95.712891
+520,Chiba Bank,2.4,0.5,132.2,6.0,Japan,Asia,36.204824,138.252924
+521,Johnson Matthey,19.3,0.5,5.2,7.5,UK,Europe,55.378051,-3.435973
+522,Tingyi Holding,9.2,0.5,7.5,15.0,China,Asia,35.86166,104.195397
+523,Areva,12.3,-0.1,39.8,6.2,France,Europe,46.227638,2.213749
+524,Sun Art Retail Group,12.3,0.4,7.2,13.9,China,Asia,35.86166,104.195397
+525,Santos,3.4,0.5,17.7,13.1,Australia,Oceania,-25.274398,133.775136
+526,Land Lease Group,11.9,0.5,12.6,5.8,Australia,Oceania,-25.274398,133.775136
+527,Fidelity National Information,5.8,0.5,13.6,11.3,USA,North America,37.09024,-95.712891
+528,Sears Holdings,39.9,-1.1,19.3,5.5,USA,North America,37.09024,-95.712891
+529,UC Rusal,11.0,-0.1,25.5,8.1,Russia,Europe,61.52401,105.318756
+530,Banca MPS,12.1,-4.1,288.9,3.2,Italy,Europe,41.87194,12.56738
+531,Hyundai Engineering,11.8,0.5,12.0,6.4,South Korea,Asia,35.907757,127.766922
+532,Shanghai International Port,4.5,0.8,13.3,9.8,China,Asia,35.86166,104.195397
+533,Eiffage,18.0,0.3,33.8,4.1,France,Europe,46.227638,2.213749
+534,Ventas,2.5,0.4,19.0,20.6,USA,North America,37.09024,-95.712891
+535,Link REIT,0.8,1.2,10.2,12.7,Hong Kong,Asia,22.396428,114.109497
+536,SembCorp Industries,8.3,0.6,10.5,7.4,Singapore,Asia,1.352083,103.819836
+537,CarMax,10.6,0.4,9.3,9.5,USA,North America,37.09024,-95.712891
+538,Staples,24.4,-0.2,12.3,9.0,USA,North America,37.09024,-95.712891
+539,Assurant,8.5,0.5,28.9,3.5,USA,North America,37.09024,-95.712891
+540,Attijariwafa Bank,3.4,0.5,43.5,6.7,Morocco,Africa,31.791702,-7.09262
+541,China Cosco Holdings,14.0,-1.5,26.5,6.4,China,Asia,35.86166,104.195397
+542,Lorillard,4.6,1.1,3.4,14.9,USA,North America,37.09024,-95.712891
+543,Kintetsu,11.4,0.1,22.2,8.1,Japan,Asia,36.204824,138.252924
+544,Rockwell Automation,6.3,0.7,5.7,12.4,USA,North America,37.09024,-95.712891
+545,Zain,4.6,0.9,10.4,10.8,Kuwait,Asia,29.31166,47.481766
+546,W&W-WÃ¼stenrot,8.8,0.3,101.8,1.9,Germany,Europe,51.165691,10.451526
+547,Nippon Express,19.7,0.3,15.0,5.2,Japan,Asia,36.204824,138.252924
+548,PLDT,4.0,0.9,9.9,15.1,Philippines,Asia,12.879721,121.774017
+549,Dai Nippon Printing,18.2,-0.2,19.1,6.4,Japan,Asia,36.204824,138.252924
+550,Arab National Bank,1.5,0.6,36.4,6.2,Saudi Arabia,Asia,23.885942,45.079162
+551,Westfield Retail Trust,0.5,0.9,13.8,9.8,Australia,Oceania,-25.274398,133.775136
+552,Hertz Global Holdings,9.0,0.2,23.3,8.5,USA,North America,37.09024,-95.712891
+553,Facebook,5.1,0.1,15.1,63.5,USA,North America,37.09024,-95.712891
+554,Shimao Property Holdings,4.5,0.9,19.2,5.9,China,Asia,35.86166,104.195397
+555,Harley-Davidson,5.6,0.6,9.2,12.5,USA,North America,37.09024,-95.712891
+556,Cielo,2.6,1.1,4.7,18.9,Brazil,South America,-14.235004,-51.92528
+557,Nintendo,7.8,-0.5,15.9,14.4,Japan,Asia,36.204824,138.252924
+558,Thai Beverage,5.2,0.9,6.8,12.3,Thailand,Asia,15.870032,100.992541
+559,Cathay Pacific Airways,12.6,0.1,20.5,7.1,Hong Kong,Asia,22.396428,114.109497
+560,New York Community,2.1,0.5,44.1,6.3,USA,North America,37.09024,-95.712891
+561,Mediolanum,15.0,0.1,43.7,4.5,Italy,Europe,41.87194,12.56738
+562,Dollar Tree,7.4,0.6,2.8,10.1,USA,North America,37.09024,-95.712891
+563,National Bank of Greece,10.4,-16.0,137.0,1.0,Greece,Europe,39.074208,21.824312
+564,Flextronics International,24.7,0.4,11.2,4.5,Singapore,Asia,1.352083,103.819836
+565,Aozora Bank,1.6,0.6,61.3,5.1,Japan,Asia,36.204824,138.252924
+566,WR Berkley,5.8,0.5,20.2,5.9,USA,North America,37.09024,-95.712891
+567,Shire,4.6,0.7,7.3,17.2,Ireland,Europe,53.41291,-8.24389
+568,Intuit,4.2,0.8,5.1,19.4,USA,North America,37.09024,-95.712891
+569,Pohjola Bank,5.1,0.4,58.8,5.2,Finland,Europe,61.92411,25.748151
+570,Keyence,2.6,0.8,8.6,18.3,Japan,Asia,36.204824,138.252924
+571,Terna,2.3,0.6,18.6,8.3,Italy,Europe,41.87194,12.56738
+572,T Rowe Price,3.0,0.9,4.2,19.5,USA,North America,37.09024,-95.712891
+573,Continental Resources,2.6,0.7,9.1,17.2,USA,North America,37.09024,-95.712891
+574,China Oilfield Services,3.5,0.7,12.0,11.1,China,Asia,35.86166,104.195397
+575,CMS Energy,6.3,0.4,17.1,7.3,USA,North America,37.09024,-95.712891
+576,Delhaize Group,29.2,0.1,15.8,5.5,Belgium,Europe,50.503887,4.469936
+577,Brambles,5.6,0.6,7.7,14.1,Australia,Oceania,-25.274398,133.775136
+578,Bank of Greece,5.4,0.3,210.7,0.4,Greece,Europe,39.074208,21.824312
+579,O'Reilly Automotive,6.2,0.6,5.7,11.5,USA,North America,37.09024,-95.712891
+580,Next,5.6,0.8,3.0,10.0,UK,Europe,55.378051,-3.435973
+581,Wisconsin Energy,4.2,0.5,14.3,9.5,USA,North America,37.09024,-95.712891
+582,Delek Group,18.6,0.1,30.7,3.0,Israel,Asia,31.046051,34.851612
+583,K+S,5.1,0.9,8.8,9.4,Germany,Europe,51.165691,10.451526
+584,Innolux,16.3,-0.1,20.6,5.4,Taiwan,Asia,23.69781,120.960515
+585,Canadian Oil Sands,3.7,1.0,10.2,10.2,Canada,North America,56.130366,-106.346771
+586,Valeo,15.1,0.5,11.8,4.3,France,Europe,46.227638,2.213749
+587,Brenntag,12.5,0.4,7.5,7.7,Germany,Europe,51.165691,10.451526
+588,Tullow Oil,2.4,0.6,9.4,17.2,UK,Europe,55.378051,-3.435973
+589,Industrial Alliance Insurance,7.5,0.3,42.0,3.5,Canada,North America,56.130366,-106.346771
+590,JM Smucker,5.9,0.5,9.2,10.4,USA,North America,37.09024,-95.712891
+591,Dr Pepper Snapple Group,6.0,0.6,8.9,9.0,USA,North America,37.09024,-95.712891
+592,Cosmo Oil,37.6,-0.1,20.0,1.8,Japan,Asia,36.204824,138.252924
+593,AMR,24.9,-1.9,23.5,1.3,USA,North America,37.09024,-95.712891
+594,Applied Materials,8.1,0.0,11.7,16.0,USA,North America,37.09024,-95.712891
+595,Wuliangye Yibin,3.0,1.0,5.9,14.7,China,Asia,35.86166,104.195397
+596,MGM Resorts,9.2,-1.8,26.3,6.4,USA,North America,37.09024,-95.712891
+597,Chugoku Electric Power,14.3,0.0,34.2,4.4,Japan,Asia,36.204824,138.252924
+598,Shoprite Holdings,10.1,0.4,3.7,10.2,South Africa,Africa,-30.559482,22.937506
+599,El Puerto de Liverpool,5.0,0.5,6.6,15.5,Mexico,North America,23.634501,-102.552784
+600,Braskem,17.3,-0.4,19.6,5.0,Brazil,South America,-14.235004,-51.92528
+601,BM&F Bovespa,1.0,0.5,11.7,13.4,Brazil,South America,-14.235004,-51.92528
+602,First Quantum Minerals,3.0,1.8,7.5,10.2,Canada,North America,56.130366,-106.346771
+603,General Growth Properties,2.5,-0.5,27.3,18.7,USA,North America,37.09024,-95.712891
+604,Tokyu Land,6.7,0.4,21.0,5.0,Japan,Asia,36.204824,138.252924
+605,Prologis,2.0,0.0,27.3,18.7,USA,North America,37.09024,-95.712891
+606,EnCana,5.2,-2.8,18.7,15.0,Canada,North America,56.130366,-106.346771
+607,Alrosa,4.7,0.9,10.0,7.7,Russia,Europe,61.52401,105.318756
+608,Boston Scientific,7.2,-4.1,17.2,10.0,USA,North America,37.09024,-95.712891
+609,Prada,3.3,0.6,3.6,25.8,Italy,Europe,41.87194,12.56738
+610,Metalurgica Gerdau,18.5,0.2,25.0,3.8,Brazil,South America,-14.235004,-51.92528
+611,Storebrand,9.0,0.2,75.6,2.0,Norway,Europe,60.472024,8.468946
+612,Hebei Iron & Steel,21.2,0.2,22.8,4.1,China,Asia,35.86166,104.195397
+613,Celanese,6.4,0.6,9.2,7.5,USA,North America,37.09024,-95.712891
+614,Inner Mongolia Yitai,5.0,1.0,6.4,8.7,China,Asia,35.86166,104.195397
+615,Adani Enterprises,7.7,0.4,21.0,4.9,India,Asia,20.593684,78.96288
+616,Global Logistic Properties,0.6,0.5,13.6,9.8,Singapore,Asia,1.352083,103.819836
+617,Bank of Ningbo,2.4,0.5,41.3,4.9,China,Asia,35.86166,104.195397
+618,Intuitive Surgical,2.2,0.7,4.1,18.4,USA,North America,37.09024,-95.712891
+619,Greentown China Holdings,5.6,0.8,17.3,3.2,China,Asia,35.86166,104.195397
+620,Avalonbay Communities,1.0,0.4,11.2,16.6,USA,North America,37.09024,-95.712891
+621,Ameren,6.8,-1.0,21.8,8.3,USA,North America,37.09024,-95.712891
+622,Guangzhou R&F,4.8,0.9,15.8,4.8,China,Asia,35.86166,104.195397
+623,Samsung SDI,5.1,1.3,10.2,5.5,South Korea,Asia,35.907757,127.766922
+624,Portugal Telecom,8.5,0.3,26.5,4.7,Portugal,Europe,39.399872,-8.224454
+625,Petrofac,6.5,0.6,5.3,8.1,UK,Europe,55.378051,-3.435973
+626,Metso,9.9,0.5,8.5,6.3,Finland,Europe,61.92411,25.748151
+627,FMC Technologies,6.2,0.4,5.9,12.5,USA,North America,37.09024,-95.712891
+628,Toppan Printing,18.2,0.0,19.1,4.6,Japan,Asia,36.204824,138.252924
+629,Yamato Holdings,15.2,0.2,11.0,7.7,Japan,Asia,36.204824,138.252924
+630,Cosan,14.1,0.3,12.2,5.5,Brazil,South America,-14.235004,-51.92528
+631,MBIA,2.4,1.2,21.7,2.3,USA,North America,37.09024,-95.712891
+632,Century Tokyo Leasing,8.7,0.3,27.4,2.6,Japan,Asia,36.204824,138.252924
+633,Hindustan Petroleum,32.6,0.0,16.8,1.9,India,Asia,20.593684,78.96288
+634,Stockland Australia,2.1,0.5,14.9,8.8,Australia,Oceania,-25.274398,133.775136
+635,Interpublic Group,7.0,0.4,13.5,5.5,USA,North America,37.09024,-95.712891
+636,Molson Coors Brewing,3.9,0.4,16.2,8.8,USA,North America,37.09024,-95.712891
+637,IHI,14.8,0.3,15.7,4.5,Japan,Asia,36.204824,138.252924
+638,Want Want China,3.4,0.6,3.5,19.8,China,Asia,35.86166,104.195397
+639,Royal Carribean Cruises,7.7,0.0,19.8,7.4,Liberia,Africa,6.428055,-9.429499
+640,Delta Electronics,5.8,0.5,6.3,9.8,Taiwan,Asia,23.69781,120.960515
+641,FCC,14.7,-1.1,25.1,1.3,Spain,Europe,40.463667,-3.74922
+642,Oji Holdings,14.7,0.3,19.7,3.5,Japan,Asia,36.204824,138.252924
+643,Hyundai Glovis,10.4,0.4,4.0,6.7,South Korea,Asia,35.907757,127.766922
+644,Fidelity National Financial,7.2,0.6,9.9,5.5,USA,North America,37.09024,-95.712891
+645,HAL Trust,5.2,0.6,8.4,9.0,The Netherlands,Europe,52.132633,5.291266
+646,AGL Energy,7.6,0.1,14.5,9.5,Australia,Oceania,-25.274398,133.775136
+647,Wendel,8.6,0.3,18.8,5.4,France,Europe,46.227638,2.213749
+648,Enka,5.7,0.6,8.2,8.3,Turkey,Europe,38.963745,35.243322
+649,Wynn Resorts,5.2,0.5,7.3,12.1,USA,North America,37.09024,-95.712891
+650,Coca-Cola Amatil,5.3,0.5,7.0,12.1,Australia,Oceania,-25.274398,133.775136
+651,Power Finance,2.6,0.6,26.5,4.9,India,Asia,20.593684,78.96288
+652,Lennar,4.4,0.7,10.4,7.7,USA,North America,37.09024,-95.712891
+653,Arab Bank,2.1,0.3,45.6,5.9,Jordan,Asia,30.585164,36.238414
+654,CP All,6.2,0.4,2.3,13.9,Thailand,Asia,15.870032,100.992541
+655,TUI,23.6,-0.1,16.8,2.8,Germany,Europe,51.165691,10.451526
+656,Maxis,2.9,0.6,5.8,15.6,Malaysia,Asia,4.210484,101.975766
+657,YTL,6.4,0.4,16.3,5.6,Malaysia,Asia,4.210484,101.975766
+658,Sino-Ocean Land Holdings,4.6,0.7,20.2,3.5,China,Asia,35.86166,104.195397
+659,Boston Properties,1.9,0.3,15.5,16.0,USA,North America,37.09024,-95.712891
+660,CIT Group,4.0,-0.6,44.0,9.0,USA,North America,37.09024,-95.712891
+661,DR Horton,4.7,1.0,7.3,7.8,USA,North America,37.09024,-95.712891
+662,Analog Devices,2.7,0.6,5.7,13.9,USA,North America,37.09024,-95.712891
+663,Fuji Media Holdings,7.2,0.7,11.4,4.0,Japan,Asia,36.204824,138.252924
+664,Cincinnati Financial,4.1,0.4,16.5,7.7,USA,North America,37.09024,-95.712891
+665,Lotte Chemical,14.1,0.3,9.8,6.5,South Korea,Asia,35.907757,127.766922
+666,CJ Corp,15.7,0.2,20.1,3.6,South Korea,Asia,35.907757,127.766922
+667,Pirelli & C,7.8,0.5,10.0,5.3,Italy,Europe,41.87194,12.56738
+668,LabCorp,5.7,0.6,6.8,8.5,USA,North America,37.09024,-95.712891
+669,Smith & Nephew,4.2,0.7,5.5,10.2,UK,Europe,55.378051,-3.435973
+670,Coca-Cola HBC,9.3,0.3,9.5,10.2,Greece,Europe,39.074208,21.824312
+671,Kerry Group,7.7,0.4,7.0,9.8,Ireland,Europe,53.41291,-8.24389
+672,Huadian Power International,9.4,0.2,26.4,4.8,China,Asia,35.86166,104.195397
+673,Banco Davivienda,2.7,0.4,23.2,6.4,Colombia,South America,4.570868,-74.297333
+674,IDB Holding,10.1,-0.2,32.4,0.1,Israel,Asia,31.046051,34.851612
+675,Polyus Gold International,2.8,0.9,5.6,9.8,UK,Europe,55.378051,-3.435973
+676,Red ElÃ©ctrica,2.3,0.6,12.0,7.5,Spain,Europe,40.463667,-3.74922
+677,Showa Shell Sekiyu,30.3,0.0,14.0,2.6,Japan,Asia,36.204824,138.252924
+678,City Developments,2.7,0.6,12.8,7.8,Singapore,Asia,1.352083,103.819836
+679,Zoetis,4.3,0.4,6.3,16.7,USA,North America,37.09024,-95.712891
+680,Jupiter Telecommunications,4.7,0.5,9.4,8.9,Japan,Asia,36.204824,138.252924
+681,PVH,6.0,0.4,7.8,9.6,USA,North America,37.09024,-95.712891
+682,MediaTek,3.4,0.5,7.2,15.4,Taiwan,Asia,23.69781,120.960515
+683,Israel Corp,11.5,-0.1,15.7,5.7,Israel,Asia,31.046051,34.851612
+684,Oil & Gas Development,1.8,1.0,3.6,8.7,Pakistan,Asia,30.375321,69.345116
+685,Crown Castle International,2.4,0.2,16.1,20.5,USA,North America,37.09024,-95.712891
+686,TDC,4.6,0.6,11.2,6.4,Denmark,Europe,56.26392,9.501785
+687,Sekisui Chemical,11.7,0.3,9.8,5.5,Japan,Asia,36.204824,138.252924
+688,IOI Group,4.9,0.6,7.2,9.6,Malaysia,Asia,4.210484,101.975766
+689,Tele2,6.7,0.5,6.9,7.4,Sweden,Europe,60.128161,18.643501
+690,Union Bank of India,4.6,0.3,51.7,2.4,India,Asia,20.593684,78.96288
+691,Moody's,2.7,0.7,4.0,11.5,USA,North America,37.09024,-95.712891
+692,Sun Pharma Industries,1.6,0.5,3.1,16.0,India,Asia,20.593684,78.96288
+693,ST Engineering,5.2,0.5,6.5,10.4,Singapore,Asia,1.352083,103.819836
+694,Beijing Entreprises,4.6,0.4,11.5,8.6,Hong Kong,Asia,22.396428,114.109497
+695,Torchmark,3.6,0.5,18.8,5.6,USA,North America,37.09024,-95.712891
+696,Infineon Technologies,5.0,0.5,7.2,9.3,Germany,Europe,51.165691,10.451526
+697,First Republic Bank,1.5,0.4,34.4,5.0,USA,North America,37.09024,-95.712891
+698,GEA Group,7.4,0.4,8.5,6.6,Germany,Europe,51.165691,10.451526
+699,Ball,8.7,0.4,7.5,6.9,USA,North America,37.09024,-95.712891
+700,Umicore,16.6,0.3,4.7,5.9,Belgium,Europe,50.503887,4.469936
+701,Odakyu Electric Railway,6.1,0.2,15.9,8.8,Japan,Asia,36.204824,138.252924
+702,Alfresa Holdings,28.2,0.1,13.1,2.7,Japan,Asia,36.204824,138.252924
+703,Agile Property Holdings,4.8,0.8,14.7,4.0,China,Asia,35.86166,104.195397
+704,Eurasian Natural Resources,6.3,-0.8,20.2,6.8,UK,Europe,55.378051,-3.435973
+705,DSME,12.5,0.2,15.2,5.0,South Korea,Asia,35.907757,127.766922
+706,Hyundai Marine & Fire,8.1,0.4,16.0,2.3,South Korea,Asia,35.907757,127.766922
+707,Host Hotels & Resorts,5.3,0.1,13.0,12.9,USA,North America,37.09024,-95.712891
+708,Calpine,5.5,0.2,16.5,9.2,USA,North America,37.09024,-95.712891
+709,Darden Restaurants,8.3,0.4,7.0,6.4,USA,North America,37.09024,-95.712891
+710,Mitsui Chemicals,17.6,0.0,15.2,2.3,Japan,Asia,36.204824,138.252924
+711,AÃ©roports de Paris,3.5,0.5,12.4,8.4,France,Europe,46.227638,2.213749
+712,Axis Capital Holdings,3.9,0.5,18.9,5.0,Bermuda,North America,32.321384,-64.75737
+713,Rockwell Collins,4.7,0.6,5.3,8.7,USA,North America,37.09024,-95.712891
+714,Raymond James Financial,4.2,0.3,22.3,6.7,USA,North America,37.09024,-95.712891
+715,Soho China,2.5,1.7,12.6,4.0,China,Asia,35.86166,104.195397
+716,Dongbu Insurance,8.2,0.3,15.6,2.5,South Korea,Asia,35.907757,127.766922
+717,Samsung Engineering,10.8,0.5,5.3,4.7,South Korea,Asia,35.907757,127.766922
+718,AU Optronics,13.0,-1.9,18.2,3.8,Taiwan,Asia,23.69781,120.960515
+719,Nippon Paper Industries,12.6,-0.5,18.5,1.9,Japan,Asia,36.204824,138.252924
+720,Far Eastern New Century,7.8,0.4,10.9,5.4,Taiwan,Asia,23.69781,120.960515
+721,Commercial Bank of Qatar,1.1,0.6,22.0,4.5,Qatar,Asia,25.354826,51.183884
+722,JGC,6.7,0.5,6.3,6.7,Japan,Asia,36.204824,138.252924
+723,Shenzhen Overseas,3.0,0.6,11.7,6.7,China,Asia,35.86166,104.195397
+724,Hua Nan Financial,1.6,0.3,65.2,5.0,Taiwan,Asia,23.69781,120.960515
+725,Caesars Entertainment,8.6,-1.5,28.0,2.1,USA,North America,37.09024,-95.712891
+726,Alfa Laval,4.6,0.5,5.1,9.9,Sweden,Europe,60.128161,18.643501
+727,Catamaran,9.9,0.1,7.4,10.7,USA,North America,37.09024,-95.712891
+728,Caltex Australia,24.2,0.1,5.0,6.2,Australia,Oceania,-25.274398,133.775136
+729,A2A,8.1,0.3,15.8,1.9,Italy,Europe,41.87194,12.56738
+730,TAQA,7.5,0.2,33.3,2.2,United Arab Emirates,Asia,23.424076,53.847818
+731,SAIC,11.2,0.5,5.9,4.3,USA,North America,37.09024,-95.712891
+732,Taiwan Mobile,3.4,0.5,3.2,12.0,Taiwan,Asia,23.69781,120.960515
+733,Fastenal,3.1,0.4,1.8,15.1,USA,North America,37.09024,-95.712891
+734,Vallourec,7.0,0.3,11.9,6.6,France,Europe,46.227638,2.213749
+735,Aurizon Holdings,3.6,0.5,10.3,9.0,Australia,Oceania,-25.274398,133.775136
+736,Rexam,7.0,0.3,9.9,6.3,UK,Europe,55.378051,-3.435973
+737,Bajaj Auto,3.7,0.6,2.2,9.9,India,Asia,20.593684,78.96288
+738,Roper Industries,3.0,0.5,7.1,12.3,USA,North America,37.09024,-95.712891
+739,China Merchants Holdings,1.4,0.5,10.0,8.6,Hong Kong,Asia,22.396428,114.109497
+740,KLA-Tencor,3.1,0.7,5.1,8.7,USA,North America,37.09024,-95.712891
+741,Cerner,2.7,0.4,3.7,16.0,USA,North America,37.09024,-95.712891
+742,First Pacific,6.0,0.3,13.9,5.3,Hong Kong,Asia,22.396428,114.109497
+743,Empire,17.4,0.4,15.0,16.9,Canada,North America,56.130366,-106.346771
+744,Oriental Land,4.4,0.4,7.5,13.3,Japan,Asia,36.204824,138.252924
+745,Exxaro Resources,1.5,1.2,4.9,6.4,South Africa,Africa,-30.559482,22.937506
+746,Impala Platinum Holdings,3.4,0.5,8.9,9.3,South Africa,Africa,-30.559482,22.937506
+747,Alliance Data Systems,3.6,0.4,12.0,7.9,USA,North America,37.09024,-95.712891
+748,Angang Steel,12.3,-0.7,16.2,4.1,China,Asia,35.86166,104.195397
+749,Denbury Resources,2.5,0.5,11.1,7.0,USA,North America,37.09024,-95.712891
+750,First Financial Holdings,1.5,0.3,68.7,5.1,Taiwan,Asia,23.69781,120.960515
+751,NYSE Euronext,3.7,0.3,12.6,9.2,USA,North America,37.09024,-95.712891
+752,Celesio,28.6,-0.2,10.5,3.2,Germany,Europe,51.165691,10.451526
+753,Shanxi Taigang Stainless,15.3,0.3,10.5,3.1,China,Asia,35.86166,104.195397
+754,Hanwha Corp,10.2,0.3,14.9,2.1,South Korea,Asia,35.907757,127.766922
+755,Hengan International Group,2.4,0.5,3.8,11.9,China,Asia,35.86166,104.195397
+756,Olam International,13.5,0.3,10.9,3.1,Singapore,Asia,1.352083,103.819836
+757,Direct Line Insurance,6.1,0.3,18.8,4.7,UK,Europe,55.378051,-3.435973
+758,Meico Crown Entertainment,4.1,0.4,7.9,11.5,Hong Kong,Asia,22.396428,114.109497
+759,Life Technologies,3.8,0.4,8.6,10.8,USA,North America,37.09024,-95.712891
+760,Arca Continental,4.4,0.4,4.9,12.0,Mexico,North America,23.634501,-102.552784
+761,Wyndham Worldwide,4.5,0.4,9.5,8.6,USA,North America,37.09024,-95.712891
+762,GPT Group,0.7,0.6,9.7,6.0,Australia,Oceania,-25.274398,133.775136
+763,TPK Holding,5.9,0.5,3.4,6.7,Taiwan,Asia,23.69781,120.960515
+764,Capita,5.4,0.4,6.3,8.7,UK,Europe,55.378051,-3.435973
+765,Grupo Elektra,5.3,-1.5,12.8,9.5,Mexico,North America,23.634501,-102.552784
+766,Allahabad Bank,3.3,0.4,36.0,1.3,India,Asia,20.593684,78.96288
+767,WorleyParsons,7.6,0.4,4.4,6.6,Australia,Oceania,-25.274398,133.775136
+768,American Water Works,2.9,0.4,14.7,7.1,USA,North America,37.09024,-95.712891
+769,Yamaha Motor,13.9,0.1,11.1,4.9,Japan,Asia,36.204824,138.252924
+770,Petsmart,6.8,0.4,2.5,6.7,USA,North America,37.09024,-95.712891
+771,Electric Power Development,7.9,0.2,23.9,3.8,Japan,Asia,36.204824,138.252924
+772,NHN,2.1,0.5,2.8,10.4,South Korea,Asia,35.907757,127.766922
+773,SinoPac Financial,1.3,0.3,46.7,3.5,Taiwan,Asia,23.69781,120.960515
+774,Fortis (Canada),3.8,0.4,15.0,6.9,Canada,North America,56.130366,-106.346771
+775,Hoya,4.4,0.5,6.7,8.2,Japan,Asia,36.204824,138.252924
+776,Tauron Group,7.6,0.5,10.1,2.5,Poland,Europe,51.919438,19.145136
+777,Protective Life,3.6,0.3,57.4,2.7,USA,North America,37.09024,-95.712891
+778,Huntsman,11.2,0.3,8.9,4.6,USA,North America,37.09024,-95.712891
+779,Mondi,7.7,0.3,8.7,6.4,UK,Europe,55.378051,-3.435973
+780,Concho Resources,1.8,0.4,8.6,10.1,USA,North America,37.09024,-95.712891
+781,Newell Rubbermaid,5.9,0.4,6.2,7.3,USA,North America,37.09024,-95.712891
+782,Reliance Steel,8.4,0.4,5.9,5.3,USA,North America,37.09024,-95.712891
+783,Hutchinson Port Holdings,1.6,0.3,17.4,7.3,Singapore,Asia,1.352083,103.819836
+784,Jindal Steel & Power,3.6,0.8,8.8,6.2,India,Asia,20.593684,78.96288
+785,Perrigo,3.3,0.4,4.3,10.9,USA,North America,37.09024,-95.712891
+786,Nvidia,4.3,0.6,6.4,7.8,USA,North America,37.09024,-95.712891
+787,Chang Hwa Bank,1.2,0.3,52.3,4.3,Taiwan,Asia,23.69781,120.960515
+788,Alpha Bank,4.6,-1.4,76.9,0.5,Greece,Europe,39.074208,21.824312
+789,Taiwan Cooperative Financial,1.9,0.2,91.0,4.5,Taiwan,Asia,23.69781,120.960515
+790,X5 Retail Group,15.8,-0.1,9.6,5.0,Russia,Europe,61.52401,105.318756
+791,CBRE Group,6.5,0.3,7.8,8.2,USA,North America,37.09024,-95.712891
+792,Smurfit Kappa Group,9.7,0.3,10.9,3.7,Ireland,Europe,53.41291,-8.24389
+793,Bank Audi,2.0,0.4,31.3,2.4,Lebanon,Asia,33.854721,35.862285
+794,Flowserve,4.8,0.4,4.8,8.1,USA,North America,37.09024,-95.712891
+795,Embraer,6.2,0.3,9.5,6.3,Brazil,South America,-14.235004,-51.92528
+796,Huatai Securities,1.3,0.3,13.6,9.5,China,Asia,35.86166,104.195397
+797,Hexagon,3.2,0.5,7.0,9.8,Sweden,Europe,60.128161,18.643501
+798,Compal Electronics,23.1,0.2,9.8,3.0,Taiwan,Asia,23.69781,120.960515
+799,Neste Oil,23.7,0.2,9.7,3.8,Finland,Europe,61.92411,25.748151
+800,Masraf Al Rayan,0.7,0.4,16.9,5.1,Qatar,Asia,25.354826,51.183884
+801,China International Marine,8.6,0.3,10.3,4.9,China,Asia,35.86166,104.195397
+802,Aker Solutions,8.1,0.4,7.1,5.1,Norway,Europe,60.472024,8.468946
+803,BS Financial Group,2.1,0.3,38.6,2.8,South Korea,Asia,35.907757,127.766922
+804,Sino Land,1.1,0.6,14.7,3.9,Hong Kong,Asia,22.396428,114.109497
+805,Citrix Systems,2.6,0.4,4.8,8.1,USA,North America,37.09024,-95.712891
+806,FinanciÃ¨re de l'Odet,11.0,0.3,11.1,3.2,France,Europe,46.227638,2.213749
+807,InterContinental Hotels,1.9,0.6,3.1,8.1,UK,Europe,55.378051,-3.435973
+808,Avis Budget Group,7.4,0.3,15.2,3.0,USA,North America,37.09024,-95.712891
+809,CGI Group,6.3,0.0,10.8,8.0,Canada,North America,56.130366,-106.346771
+810,Sigma-Aldrich,2.6,0.5,3.8,9.5,USA,North America,37.09024,-95.712891
+811,NSK,8.9,0.3,10.2,4.2,Japan,Asia,36.204824,138.252924
+812,Experditors International,6.0,0.3,3.0,7.9,USA,North America,37.09024,-95.712891
+813,Kinross Gold,4.3,-2.5,14.9,9.1,Canada,North America,56.130366,-106.346771
+814,China Communications Services,9.8,0.4,7.2,4.7,China,Asia,35.86166,104.195397
+815,Wistron,22.2,0.2,9.4,2.5,Taiwan,Asia,23.69781,120.960515
+816,Hokuhoku Financial Group,2.5,0.2,128.7,2.6,Japan,Asia,36.204824,138.252924
+817,Hokkaido Electric Power,7.7,-0.9,19.6,1.7,Japan,Asia,36.204824,138.252924
+818,Kansas City Southern,2.2,0.4,6.4,11.9,USA,North America,37.09024,-95.712891
+819,Chinese Estates,0.4,1.3,9.6,2.9,Hong Kong,Asia,22.396428,114.109497
+820,Pinnacle West,3.3,0.4,13.4,6.3,USA,North America,37.09024,-95.712891
+821,Yamaguchi Financial,1.8,0.2,110.2,2.5,Japan,Asia,36.204824,138.252924
+822,Dongfang Electric,6.0,0.3,12.6,4.7,China,Asia,35.86166,104.195397
+823,World Fuel Services,38.9,0.2,4.1,2.9,USA,North America,37.09024,-95.712891
+824,Salzgitter,13.4,-0.1,11.7,2.5,Germany,Europe,51.165691,10.451526
+825,Banrisul,3.6,0.4,22.3,3.6,Brazil,South America,-14.235004,-51.92528
+826,Shangri-La Asia,2.1,0.4,11.9,7.2,Hong Kong,Asia,22.396428,114.109497
+827,UNY Group Holdings,13.3,0.1,11.7,1.7,Japan,Asia,36.204824,138.252924
+828,Indian Bank,2.6,0.3,27.5,1.4,India,Asia,20.593684,78.96288
+829,Enagas,1.6,0.5,10.6,5.8,Spain,Europe,40.463667,-3.74922
+830,Teradata,2.7,0.4,3.1,9.6,USA,North America,37.09024,-95.712891
+831,Nishi-Nippon City Bank,1.9,0.2,92.7,2.4,Japan,Asia,36.204824,138.252924
+832,Hyosung,11.2,0.1,12.9,1.6,South Korea,Asia,35.907757,127.766922
+833,Wolters Kluwer,4.8,0.4,8.5,6.6,The Netherlands,Europe,52.132633,5.291266
+834,Empresas CMPC,4.8,0.2,14.0,8.0,Chile,South America,-35.675147,-71.542969
+835,Inner Mongolia Yili,6.0,0.3,3.2,8.9,China,Asia,35.86166,104.195397
+836,CVR Energy,8.6,0.4,3.6,4.8,USA,North America,37.09024,-95.712891
+837,TDK,9.8,0.0,12.6,4.6,Japan,Asia,36.204824,138.252924
+838,Helmerich & Payne,3.3,0.6,5.9,7.0,USA,North America,37.09024,-95.712891
+839,Buenaventura,1.5,0.7,4.5,6.3,Peru,South America,-9.189967,-75.015152
+840,InTouch,0.3,0.5,1.5,8.6,Thailand,Asia,15.870032,100.992541
+841,Gecina,0.9,0.3,14.8,7.1,France,Europe,46.227638,2.213749
+842,Kawasaki Kisen Kaisha,11.7,-0.5,12.3,2.2,Japan,Asia,36.204824,138.252924
+843,Maanshan Iron & Steel,11.8,-0.6,12.2,2.3,China,Asia,35.86166,104.195397
+844,Mizrahi Tefahot Bank,2.1,0.3,43.4,2.4,Israel,Asia,31.046051,34.851612
+845,TCL Corp,11.0,0.1,12.8,3.4,China,Asia,35.86166,104.195397
+846,Shandong Gold-Mining,6.3,0.3,2.0,7.6,China,Asia,35.86166,104.195397
+847,E-L Financial,3.0,0.5,16.7,2.1,Canada,North America,56.130366,-106.346771
+848,Banco de Valencia,1.2,-4.7,28.3,6.0,Spain,Europe,40.463667,-3.74922
+849,NHPC,1.4,0.6,11.8,4.6,India,Asia,20.593684,78.96288
+850,Doosan Infracore,7.2,0.4,10.5,2.3,South Korea,Asia,35.907757,127.766922
+851,Gunma Bank,1.5,0.2,78.5,2.7,Japan,Asia,36.204824,138.252924
+852,Jtekt,12.7,0.2,11.4,3.3,Japan,Asia,36.204824,138.252924
+853,Usiminas,6.2,-0.3,15.3,5.3,Brazil,South America,-14.235004,-51.92528
+854,Bankinter,3.7,0.2,76.5,3.3,Spain,Europe,40.463667,-3.74922
+855,Waters,1.8,0.5,3.2,8.1,USA,North America,37.09024,-95.712891
+856,Jizhong Energy Resources,6.0,0.5,6.0,4.9,China,Asia,35.86166,104.195397
+857,URS,11.0,0.3,8.8,3.5,USA,North America,37.09024,-95.712891
+858,ARM Holdings,0.9,0.3,2.3,19.6,UK,Europe,55.378051,-3.435973
+859,Oil India,1.9,0.7,4.5,6.1,India,Asia,20.593684,78.96288
+860,Bendigo & Adelaide Bank,3.8,0.2,58.5,4.4,Australia,Oceania,-25.274398,133.775136
+861,Pacific Rubiales Energy,3.9,0.5,7.1,7.1,Canada,North America,56.130366,-106.346771
+862,Juroku Bank,1.4,0.1,66.6,1.5,Japan,Asia,36.204824,138.252924
+863,Qatar Islamic Bank,0.9,0.3,20.1,4.6,Qatar,Asia,25.354826,51.183884
+864,Serco Group,7.8,0.4,5.3,4.7,UK,Europe,55.378051,-3.435973
+865,Boliden,6.2,0.5,6.1,4.6,Sweden,Europe,60.128161,18.643501
+866,Constellation Brands,2.7,0.4,8.3,8.4,USA,North America,37.09024,-95.712891
+867,Tate & Lyle,4.9,0.5,4.6,5.8,UK,Europe,55.378051,-3.435973
+868,Corporation Bank,2.9,0.3,32.1,1.1,India,Asia,20.593684,78.96288
+869,Imperial Holdings,9.9,0.4,5.5,4.2,South Africa,Africa,-30.559482,22.937506
+870,Piraeus Bank,3.9,-8.6,62.5,0.3,Greece,Europe,39.074208,21.824312
+871,Blom Bank,1.6,0.3,25.0,1.7,Lebanon,Asia,33.854721,35.862285
+872,Aggreko,2.6,0.4,3.4,8.0,UK,Europe,55.378051,-3.435973
+873,Metropolitan Bank & Trust,1.5,0.3,21.7,6.0,Philippines,Asia,12.879721,121.774017
+874,Aareal Bank,1.5,0.1,60.3,1.4,Germany,Europe,51.165691,10.451526
+875,Timken,5.0,0.5,4.2,5.5,USA,North America,37.09024,-95.712891
+876,Japan Securities,0.2,0.0,59.9,0.7,Japan,Asia,36.204824,138.252924
+877,Hero MotoCorp,4.6,0.5,1.9,6.2,India,Asia,20.593684,78.96288
+878,Maxim Integrated Products,2.4,0.4,3.7,9.6,USA,North America,37.09024,-95.712891
+879,Alexion Pharmaceuticals,1.1,0.3,2.6,18.2,USA,North America,37.09024,-95.712891
+880,Balfour Beauty,15.4,0.1,9.2,2.9,UK,Europe,55.378051,-3.435973
+881,Daishi Bank,0.9,0.1,56.8,1.4,Japan,Asia,36.204824,138.252924
+882,Thomas Cook Group,15.3,-0.9,9.2,1.6,UK,Europe,55.378051,-3.435973
+883,Varian Medical Systems,2.9,0.4,2.9,8.0,USA,North America,37.09024,-95.712891
+884,Hellenic Petroleum,13.8,0.1,62.5,0.3,Greece,Europe,39.074208,21.824312
+885,Hyakugo Bank,1.0,0.1,54.8,1.2,Japan,Asia,36.204824,138.252924
+886,Israel Discount Bank,2.9,0.2,53.8,1.9,Israel,Asia,31.046051,34.851612
+887,Dubai Islamic Bank,1.3,0.3,26.0,2.2,United Arab Emirates,Asia,23.424076,53.847818
+888,FMC,3.7,0.4,4.4,8.3,USA,North America,37.09024,-95.712891
+889,Linear Technology,1.3,0.4,1.9,8.8,USA,North America,37.09024,-95.712891
+890,Abu Dhabi Islamic Bank,1.0,0.3,23.3,2.4,United Arab Emirates,Asia,23.424076,53.847818
+891,Orient,2.6,0.0,52.0,1.9,Japan,Asia,36.204824,138.252924
+892,ITV,3.6,0.4,4.4,7.8,UK,Europe,55.378051,-3.435973
+893,Toho Bank,0.7,0.1,51.4,0.8,Japan,Asia,36.204824,138.252924
+894,Central Bank of India,4.0,0.1,45.2,1.0,India,Asia,20.593684,78.96288
+895,OPAP,5.2,0.7,2.3,2.8,Greece,Europe,39.074208,21.824312
+896,San-In Godo Bank,1.1,0.1,50.1,1.4,Japan,Asia,36.204824,138.252924
+897,Aspen Pharmacare Holdings,1.9,0.4,3.8,9.7,South Africa,Africa,-30.559482,22.937506
+898,Shanghai Industrial,2.5,0.4,14.9,3.3,Hong Kong,Asia,22.396428,114.109497
+899,JC Penney,13.0,-1.0,9.8,3.4,USA,North America,37.09024,-95.712891
+900,PBF Energy,20.1,0.0,4.3,3.8,USA,North America,37.09024,-95.712891
+901,Hyakujushi Bank,0.9,0.1,48.7,1.2,Japan,Asia,36.204824,138.252924
+902,Grasim Industries,4.9,0.5,7.2,5.0,India,Asia,20.593684,78.96288
+903,Nabors Industries,6.8,0.2,12.7,5.0,Bermuda,North America,32.321384,-64.75737
+904,E-Trade Financial,2.2,-0.1,47.4,3.1,USA,North America,37.09024,-95.712891
+905,LIG Insurance,8.0,0.2,13.9,1.1,South Korea,Asia,35.907757,127.766922
+906,Carphone Warehouse,0.0,1.2,1.2,1.4,UK,Europe,55.378051,-3.435973
+907,Syndicate Bank,3.2,0.3,35.8,1.3,India,Asia,20.593684,78.96288
+908,Kiyo Holdings,1.0,0.1,46.6,1.2,Japan,Asia,36.204824,138.252924
+909,Musashino Bank,0.9,0.1,46.1,1.3,Japan,Asia,36.204824,138.252924
+910,Masco,7.7,-0.1,6.9,7.1,USA,North America,37.09024,-95.712891
+911,Keiyo Bank,0.9,0.1,45.8,1.6,Japan,Asia,36.204824,138.252924
+912,Jyske Bank,1.7,0.1,45.6,2.5,Denmark,Europe,56.26392,9.501785
+913,Foot Locker,6.2,0.4,3.4,4.9,USA,North America,37.09024,-95.712891
+914,Tim Hortons,3.1,0.4,2.3,7.9,Canada,North America,56.130366,-106.346771
+915,Cattolica Assicurazioni,5.2,0.1,23.2,1.0,Italy,Europe,41.87194,12.56738
+916,Great Wall Technology,15.2,0.0,8.5,0.2,China,Asia,35.86166,104.195397
+917,Meiji Holdings,13.4,0.1,9.1,3.3,Japan,Asia,36.204824,138.252924
+918,Indian Overseas Bank,3.9,0.2,43.1,1.0,India,Asia,20.593684,78.96288
+919,SL Green Realty,1.4,0.2,14.4,7.8,USA,North America,37.09024,-95.712891
+920,Renesas Electronics,10.7,-0.8,10.4,1.1,Japan,Asia,36.204824,138.252924
+921,Banca Popolare di Sondrio,2.0,0.0,42.7,1.8,Italy,Europe,41.87194,12.56738
+922,OfficeMax,6.9,0.4,3.8,1.0,USA,North America,37.09024,-95.712891
+923,Taiwan Business Bank,0.9,0.1,41.8,1.6,Taiwan,Asia,23.69781,120.960515
+924,OGE Energy,3.7,0.4,9.9,6.7,USA,North America,37.09024,-95.712891
+925,PhosAgro,3.1,0.6,3.4,5.5,Russia,Europe,61.52401,105.318756
+926,Green Mountain Coffee,4.0,0.4,3.5,8.1,USA,North America,37.09024,-95.712891
+927,Vietin Bank,2.6,0.3,24.2,2.4,Vietnam,Asia,14.058324,108.277199
+928,Popular,2.2,0.2,36.5,2.9,USA,North America,37.09024,-95.712891
+929,AOL,2.2,1.0,2.8,2.6,USA,North America,37.09024,-95.712891
+930,Quanta Services,5.9,0.3,5.1,6.3,USA,North America,37.09024,-95.712891
+931,Luzhou Laojiao,1.3,0.5,1.9,6.6,China,Asia,35.86166,104.195397
+932,DLF,1.9,0.2,12.4,8.6,India,Asia,20.593684,78.96288
+933,Credito Emiliano,1.9,0.2,40.5,1.7,Italy,Europe,41.87194,12.56738
+934,Whitbread,2.8,0.4,4.7,7.0,UK,Europe,55.378051,-3.435973
+935,AMEC,6.8,0.4,4.0,4.8,UK,Europe,55.378051,-3.435973
+936,Hugo Boss,3.0,0.4,2.1,7.7,Germany,Europe,51.165691,10.451526
+937,Credit Saison,4.3,0.1,25.3,4.6,Japan,Asia,36.204824,138.252924
+938,CJ Cheiljedang,8.8,0.2,11.6,4.0,South Korea,Asia,35.907757,127.766922
+939,Emirates Integrated Telecom,2.7,0.5,3.8,5.8,United Arab Emirates,Asia,23.424076,53.847818
+940,Anadolu Efes,3.6,0.3,6.5,9.0,Turkey,Europe,38.963745,35.243322
+941,Bank of Iwate,0.5,0.1,38.6,0.8,Japan,Asia,36.204824,138.252924
+942,Saudi Hollandi Bank,0.7,0.3,18.3,3.0,Saudi Arabia,Asia,23.885942,45.079162
+943,Saras,15.7,-0.1,5.2,1.1,Italy,Europe,41.87194,12.56738
+944,Church & Dwight,2.9,0.3,4.1,8.5,USA,North America,37.09024,-95.712891
+945,Shiseido,8.2,0.2,8.5,5.7,Japan,Asia,36.204824,138.252924
+946,Hanjin Shipping,10.0,-0.6,10.3,1.3,South Korea,Asia,35.907757,127.766922
+947,Zodiac Aerospace,4.3,0.4,5.1,6.4,France,Europe,46.227638,2.213749
+948,First Niagara Financial,1.5,0.2,36.8,3.0,USA,North America,37.09024,-95.712891
+949,Level 3 Communications,6.4,-0.4,13.3,4.6,USA,North America,37.09024,-95.712891
+950,LG Uplus,10.2,-0.1,9.9,3.5,South Korea,Asia,35.907757,127.766922
+951,Lojas Americanas,5.5,0.2,5.3,8.9,Brazil,South America,-14.235004,-51.92528
+952,Furukawa Electric,11.1,-0.1,9.5,1.6,Japan,Asia,36.204824,138.252924
+953,Mohawk Industries,5.8,0.3,6.3,7.9,USA,North America,37.09024,-95.712891
+954,Toyo Seikan Kaisha,8.5,0.0,11.5,2.9,Japan,Asia,36.204824,138.252924
+955,UCO Bank,3.1,0.2,35.4,0.7,India,Asia,20.593684,78.96288
+956,Telecom of New Zealand,3.5,0.9,2.9,3.4,New Zealand,Oceania,-40.900557,174.885971
+957,Acer,14.8,-0.1,7.8,2.5,Taiwan,Asia,23.69781,120.960515
+958,American Equity Investment,1.6,0.1,35.1,0.9,USA,North America,37.09024,-95.712891
+959,Grupa Lotos,10.2,0.3,6.5,1.8,Poland,Europe,51.919438,19.145136
+960,Oriental Bank of Commerce,3.4,0.2,35.0,1.5,India,Asia,20.593684,78.96288
+961,DGB Financial Group,1.7,0.2,32.2,2.0,South Korea,Asia,35.907757,127.766922
+962,Getinge,3.7,0.4,6.5,7.3,Sweden,Europe,60.128161,18.643501
+963,Chicago Bridge & Iron,5.6,0.3,4.3,6.1,The Netherlands,Europe,52.132633,5.291266
+964,Hainan Airlines,4.4,0.3,14.9,4.5,China,Asia,35.86166,104.195397
+965,Total Access Communication,2.9,0.4,3.3,7.7,Thailand,Asia,15.870032,100.992541
+966,Navistar International,12.5,-3.0,8.5,2.9,USA,North America,37.09024,-95.712891
+967,H&R Real Estate,0.8,0.5,10.2,4.5,Canada,North America,56.130366,-106.346771
+968,MISC,3.1,0.2,12.2,7.4,Malaysia,Asia,4.210484,101.975766
+969,Awa Bank,0.8,0.0,34.1,1.4,Japan,Asia,36.204824,138.252924
+970,Inchcape,9.6,0.3,5.5,3.6,UK,Europe,55.378051,-3.435973
+971,Oita Bank,0.7,0.1,33.7,0.6,Japan,Asia,36.204824,138.252924
+972,Toll Brothers,2.0,0.5,6.1,5.8,USA,North America,37.09024,-95.712891
+973,East West Bancorp,1.1,0.3,22.5,3.5,USA,North America,37.09024,-95.712891
+974,Far EasTone Telecom,3.0,0.4,3.4,7.6,Taiwan,Asia,23.69781,120.960515
+975,Calsonic Kansei,9.4,0.3,4.1,1.2,Japan,Asia,36.204824,138.252924
+976,Interactive Brokers Group,1.2,0.0,33.2,0.7,USA,North America,37.09024,-95.712891
+977,Jaccs,1.3,0.1,33.1,0.9,Japan,Asia,36.204824,138.252924
+978,Almarai,2.6,0.4,5.2,7.1,Saudi Arabia,Asia,23.885942,45.079162
+979,Energizer Holdings,4.6,0.4,6.7,5.8,USA,North America,37.09024,-95.712891
+980,Mirvac Group,1.6,0.4,8.3,6.1,Australia,Oceania,-25.274398,133.775136
+981,Doha Bank,0.8,0.4,15.2,2.8,Qatar,Asia,25.354826,51.183884
+982,Qinghai Salt Lake,15.2,0.4,4.7,6.8,China,Asia,35.86166,104.195397
+983,Cabot Oil & Gas,1.2,0.1,4.6,14.1,USA,North America,37.09024,-95.712891
+984,Banque Centrale Populaire,1.9,0.2,32.0,3.9,Morocco,Africa,31.791702,-7.09262
+985,Iliad,4.2,0.2,6.3,11.0,France,Europe,46.227638,2.213749
+986,BayWa,13.5,0.1,5.9,1.7,Germany,Europe,51.165691,10.451526
+987,Shikoku Bank,0.5,0.0,31.6,0.7,Japan,Asia,36.204824,138.252924
+988,Akita Bank,0.6,0.0,31.6,0.5,Japan,Asia,36.204824,138.252924
+989,Prysmian,10.1,0.2,7.9,4.9,Italy,Europe,41.87194,12.56738
+990,Nokian Tyres,2.1,0.4,2.7,6.1,Finland,Europe,61.92411,25.748151
+991,Showa Denko,8.5,0.1,10.5,2.2,Japan,Asia,36.204824,138.252924
+992,Tenet Healthcare,9.1,0.1,9.0,4.6,USA,North America,37.09024,-95.712891
+993,Toho Holdings,13.4,0.1,6.5,1.5,Japan,Asia,36.204824,138.252924
+994,Southwestern Energy,2.7,-0.7,6.7,13.5,USA,North America,37.09024,-95.712891
+995,Dixons Retail,13.3,-0.3,4.7,1.9,UK,Europe,55.378051,-3.435973
+996,Edwards Lifescience,1.9,0.3,2.2,9.4,USA,North America,37.09024,-95.712891
+997,Hillshire Brands,4.1,0.7,2.5,4.2,USA,North America,37.09024,-95.712891
+998,Smithfield Foods,13.1,0.2,7.6,3.7,USA,North America,37.09024,-95.712891
+999,Penske Automotive,13.2,0.2,5.4,3.0,USA,North America,37.09024,-95.712891
+1000,Dragon Oil,1.2,0.6,3.8,4.8,United Arab Emirates,Asia,23.424076,53.847818
+1001,Eighteenth Bank,0.6,0.0,29.9,0.5,Japan,Asia,36.204824,138.252924
+1002,Inner Mongolia Baotou Steel,6.8,0.1,7.9,6.4,China,Asia,35.86166,104.195397
+1003,Porto Seguro,6.1,0.3,8.8,4.4,Brazil,South America,-14.235004,-51.92528
+1004,NCC Group,8.8,0.3,5.9,2.9,Sweden,Europe,60.128161,18.643501
+1005,CareFusion,3.6,0.3,8.4,7.6,USA,North America,37.09024,-95.712891
+1006,WEG,3.0,0.3,4.3,8.1,Brazil,South America,-14.235004,-51.92528
+1007,Shanghai Material Trading,12.8,0.0,1.5,0.3,China,Asia,35.86166,104.195397
+1008,Commerce Bancshares,1.1,0.3,22.2,3.6,USA,North America,37.09024,-95.712891
+1009,Kesko,12.8,0.2,5.8,3.2,Finland,Europe,61.92411,25.748151
+1010,Motor Oil,12.8,0.1,3.4,1.2,Greece,Europe,39.074208,21.824312
+1011,Frontier Communications,5.0,0.1,17.7,4.1,USA,North America,37.09024,-95.712891
+1012,Italmobiliare,6.1,-0.3,13.8,0.7,Italy,Europe,41.87194,12.56738
+1013,Dick's Sporting Goods,5.8,0.3,2.9,5.8,USA,North America,37.09024,-95.712891
+1014,Hokuetsu Bank,0.6,0.1,28.1,0.6,Japan,Asia,36.204824,138.252924
+1015,Alliant Energy,3.1,0.3,10.8,5.4,USA,North America,37.09024,-95.712891
+1016,Sacyr Vallerhermoso,4.6,-1.3,19.7,0.9,Spain,Europe,40.463667,-3.74922
+1017,Ehime Bank,0.5,0.0,27.7,0.4,Japan,Asia,36.204824,138.252924
+1018,Lulemon Athletica,1.4,0.3,1.1,10.0,Canada,North America,56.130366,-106.346771
+1019,Westlake Chemical,3.6,0.4,3.4,6.5,USA,North America,37.09024,-95.712891
+1020,Hyundai Wia,6.2,0.4,4.3,4.0,South Korea,Asia,35.907757,127.766922
+1021,Tongling Nonferrous Metals,12.2,0.1,5.9,3.9,China,Asia,35.86166,104.195397
+1022,SpareBank 1 SR-Bank,1.2,0.2,25.4,2.4,Norway,Europe,60.472024,8.468946
+1023,Catlin Group,3.8,0.3,14.0,2.8,Bermuda,North America,32.321384,-64.75737
+1024,Assore,1.6,0.5,2.1,5.2,South Africa,Africa,-30.559482,22.937506
+1025,Whiting Petroleum,2.2,0.4,7.3,6.1,USA,North America,37.09024,-95.712891
+1026,Finning International,6.7,0.3,5.1,4.3,Canada,North America,56.130366,-106.346771
+1027,MeadWestvaco,5.5,0.2,8.9,6.6,USA,North America,37.09024,-95.712891
+1028,Kanematsu,12.2,0.1,4.7,0.6,Japan,Asia,36.204824,138.252924
+1029,Fukui Bank,0.5,0.1,27.1,0.5,Japan,Asia,36.204824,138.252924
+1030,Sydbank,1.1,0.1,27.0,1.6,Denmark,Europe,56.26392,9.501785
+1031,James Hardie Industries,1.2,0.6,1.9,4.7,Ireland,Europe,53.41291,-8.24389
+1032,Vestas Wind Systems,9.5,-1.3,9.0,1.6,Denmark,Europe,56.26392,9.501785
+1033,Yamagata Bank,0.5,0.0,26.6,0.8,Japan,Asia,36.204824,138.252924
+1034,Commercial International Bank,1.5,0.3,14.8,2.8,Egypt,Africa,26.820553,30.802498
+1035,Hakuhodo DY Holdings,11.8,0.1,6.2,3.0,Japan,Asia,36.204824,138.252924
+1036,Dillard's,6.8,0.3,4.0,3.8,USA,North America,37.09024,-95.712891
+1037,BIM Birlelik Magazalar,5.5,0.2,1.2,7.5,Turkey,Europe,38.963745,35.243322
+1038,Aeroflot-Russian Airlines,4.9,0.5,5.2,1.9,Russia,Europe,61.52401,105.318756
+1039,Fuji Electric,8.5,0.1,9.6,2.1,Japan,Asia,36.204824,138.252924
+1040,Ford Otosan,5.5,0.4,2.6,4.5,Turkey,Europe,38.963745,35.243322
+1041,Cliffs Natural Resources,5.9,-0.9,13.6,3.5,USA,North America,37.09024,-95.712891
+1042,First Horizon Natural,1.5,0.0,25.5,2.7,USA,North America,37.09024,-95.712891
+1043,Cimarex Energy,1.6,0.4,6.3,6.8,USA,North America,37.09024,-95.712891
+1044,Poly Property Group,2.7,0.3,13.9,2.2,Hong Kong,Asia,22.396428,114.109497
+1045,IMI,3.5,0.4,2.8,6.6,UK,Europe,55.378051,-3.435973
+1046,Klabin,2.0,0.4,6.9,6.5,Brazil,South America,-14.235004,-51.92528
+1047,Two Harbors Investment,0.5,0.3,16.8,4.1,USA,North America,37.09024,-95.712891
+1048,Health Net,11.3,0.1,3.9,2.3,USA,North America,37.09024,-95.712891
+1049,Tractor Supply,4.7,0.3,1.7,7.1,USA,North America,37.09024,-95.712891
+1050,UOL Group,0.9,0.7,7.8,4.2,Singapore,Asia,1.352083,103.819836
+1051,Old Republic International,5.0,-0.1,16.2,3.3,USA,North America,37.09024,-95.712891
